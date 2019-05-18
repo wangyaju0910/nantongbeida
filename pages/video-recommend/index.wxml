@@ -1,0 +1,51 @@
+<view class='nb-sousuo'>
+  <view class='sousuo-content'>
+    <view class='sousuo-img'>
+      <image src='../../images/图标3@2x.png'></image>
+    </view>
+    <view>大家都在搜</view>
+  </view>
+</view>
+<view class='header-nav'>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+</view>
+<view class='recomment-list'>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='video-bofang'>
+      <image src='../../images/播放.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view>标题标题标题标题标题标题</view>
+      <view>
+        <view>店铺名称</view>
+        <view class='text-img'>
+          <image src='../../images/点赞@2x.png'></image>
+        </view>
+        <view>10000</view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='video-bofang'>
+      <image src='../../images/播放.png'></image>
+    </view>
+  </view>
+</view>
