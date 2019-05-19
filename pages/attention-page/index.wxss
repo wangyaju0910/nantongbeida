@@ -140,7 +140,7 @@
     flex: 1;
     text-align: center;
   }
-   .tabBar .tabBar-list:nth-child(1){
+   .tabBar .tabBar-list:nth-child(2){
      color:red;
    }
   .tabBar .tabBar-img{

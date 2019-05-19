@@ -104,7 +104,7 @@
   </view>
   <view class='video-content'>
     <view class='video-img'>
-    <view class='fenxiang'>
+      <view class='fenxiang'>
         <image src='../../images/fenxiang.png'></image>
       </view>
       <image src='../../images/组1@2x.png'></image>
@@ -277,7 +277,7 @@
       <view class='handpick-price'>HK$ 10000.00</view>
     </view>
   </view>
-  <view class='handpick'>
+   <view class='handpick'>
     <view class='handpick-img'>
       <view class='recom'>推荐</view>
       <image src='../../images/首页-新_07.jpg'></image>
@@ -287,7 +287,7 @@
       <view class='handpick-price'>HK$ 10000.00</view>
     </view>
   </view>
-  <view class='handpick'>
+   <view class='handpick'>
     <view class='handpick-img'>
       <view class='recom'>推荐</view>
       <image src='../../images/首页-新_07.jpg'></image>
@@ -297,17 +297,7 @@
       <view class='handpick-price'>HK$ 10000.00</view>
     </view>
   </view>
-  <view class='handpick'>
-    <view class='handpick-img'>
-      <view class='recom'>推荐</view>
-      <image src='../../images/首页-新_07.jpg'></image>
-    </view>
-    <view class='handpick-content'>
-      <p>商品名称商品名称商</p>
-      <view class='handpick-price'>HK$ 1000.00</view>
-    </view>
-  </view>
-  <view class='handpick'>
+   <view class='handpick'>
     <view class='handpick-img'>
       <view class='recom'>推荐</view>
       <image src='../../images/首页-新_07.jpg'></image>
@@ -317,7 +307,17 @@
       <view class='handpick-price'>HK$ 10000.00</view>
     </view>
   </view>
-  <view class='handpick'>
+   <view class='handpick'>
+    <view class='handpick-img'>
+      <view class='recom'>推荐</view>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+   <view class='handpick'>
     <view class='handpick-img'>
       <view class='recom'>推荐</view>
       <image src='../../images/首页-新_07.jpg'></image>

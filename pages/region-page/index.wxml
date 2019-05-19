@@ -1,0 +1,46 @@
+<view class='region'>
+  <view class='region-list'>
+    <view class='region-img'>
+      <image src='../../images/banner@2x.png'></image>
+      <view class='region-content'>
+        <view class='region-title'>
+          <view class='title'>地区A</view>
+          <view>内容内容内容内容内容内容内容</view>
+        </view>
+        <view class='region-go'> > </view>
+      </view>
+    </view>
+  </view>
+   <view class='region-list'>
+    <view class='region-img'>
+      <image src='../../images/banner@2x.png'></image>
+      <view class='region-content'>
+        <view class='region-title'>
+          <view class='title'>地区A</view>
+          <view>内容内容内容内容内容内容内容</view>
+        </view>
+        <view class='region-go'> > </view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='tabBar'>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/图标1@2x.png'></image>
+    </view>
+    <view>推荐</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/图标1@2x.png'></image>
+    </view>
+    <view>关注</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/图标1@2x.png'></image>
+    </view>
+    <view>地区</view>
+  </view>
+</view>

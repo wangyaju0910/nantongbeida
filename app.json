@@ -2,7 +2,10 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/video-recommend/index"
+    "pages/video-recommend/index",
+    "pages/attention-page/index",
+    "pages/region-page/index",
+    "pages/region-detail/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

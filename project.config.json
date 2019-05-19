@@ -40,12 +40,34 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": 3,
 			"list": [
 				{
 					"id": -1,
 					"name": "视频专区-推荐",
 					"pathName": "pages/video-recommend/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "视频专区-关注",
+					"pathName": "pages/attention-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "视频专区-地区",
+					"pathName": "pages/region-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "地区详情",
+					"pathName": "pages/region-detail/index",
+					"query": "",
 					"scene": null
 				}
 			]

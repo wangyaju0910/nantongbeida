@@ -30,7 +30,7 @@
       <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
       <view class='store-title'>
         <view>店铺名称</view>
-        <view class='store-img'>
+        <view>
           <view class='text-img'>
             <image src='../../images/点赞@2x.png'></image>
           </view>

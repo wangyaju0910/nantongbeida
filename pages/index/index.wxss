@@ -418,11 +418,15 @@ swiper-item image {
   border-radius: 10rpx;
   margin-right: 15rpx;
 } 
-
+.handpick-list .handpick:nth-of-type(3n){
+  margin-right: 0;
+}
+.handpick:nth-of-type(-n+3){
+  margin-bottom: 10rpx;
+}
 .handpick-list .handpick-img {
   width: 100%;
   height: 260rpx;
-    margin-right: 10rpx;
   position: relative;
 
 }
@@ -439,10 +443,6 @@ swiper-item image {
 .handpick-img image {
   width: 100%;
   height: 100%;
-}
-
-.handpick-content {
-  padding: 10rpx;
 }
 
 .handpick-content p {
@@ -483,14 +483,6 @@ swiper-item image {
 
 .handpick-list .shop:nth-child(1) {
   margin-right: 48rpx;
-}
-
-.handpick:nth-of-type(even) {
-  margin: 0;
-}
-
-.handpick:nth-of-type(-n+3) {
-  margin-bottom: 10rpx;
 }
 
 .handpick-list .shop-img {
