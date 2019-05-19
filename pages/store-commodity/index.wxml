@@ -1,0 +1,135 @@
+<view class='nb-sousuo'>
+  <view class='sousuo-content'>
+    <view class='sousuo-img'>
+      <image src='../../images/图标3@2x.png'></image>
+    </view>
+    <view>大家都在搜</view>
+  </view>
+</view>
+<view class='header-nav'>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+</view>
+<view class='recomment-list'>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='user-label'>
+      <view>最高人气</view>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>HK$ 1000.00</view>
+        <view class='store-img'>
+          <view>已售1024件</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='user-label'>
+      <view>最高人气</view>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>HK$ 1000.00</view>
+        <view class='store-img'>
+          <view>已售1024件</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='user-label'>
+      <view>最高人气</view>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>HK$ 1000.00</view>
+        <view class='store-img'>
+          <view>已售1024件</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='user-label'>
+      <view>最高人气</view>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>HK$ 1000.00</view>
+        <view class='store-img'>
+          <view>已售1024件</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='user-label'>
+      <view>最高人气</view>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>HK$ 1000.00</view>
+        <view class='store-img'>
+          <view>已售1024件</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='user-label'>
+      <view>最高人气</view>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>HK$ 1000.00</view>
+        <view class='store-img'>
+          <view>已售1024件</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='tabBar'>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/huivideo.png'></image>
+    </view>
+    <view>视频</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/hongshop.png'></image>
+    </view>
+    <view>商品</view>
+  </view>
+</view>

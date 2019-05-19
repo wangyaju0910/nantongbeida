@@ -1,0 +1,97 @@
+<view class='business-district'>
+  <view class='user-message'>
+    <view class='user-img'>
+      <image src='../../images/头像@2x.png'></image>
+    </view>
+    <view class='user-title'>店铺名店铺名</view>
+  </view>
+  <view class='user-introduce'>商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍</view>
+  <view class='user-localtion'>
+    <view class='localtion-img'>
+      <image src='../../images/dizhi.png'></image>
+    </view>
+    <view class='localtion-address'>商圈位置
+      <view class='timer'>xxxxxxxxxxxxxxxxxxxx</view>
+    </view>
+  </view>
+  <view class='business-time'>
+    <view class='business-img'>
+      <image src='../../images/hongzhong.png'></image>
+    </view>
+    <view class='business-content'>营业时间
+      <view class='timer'>10:00-00:00</view>
+    </view>
+  </view>
+</view>
+<view class='recomment-list'>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/bofangshipin.png'></image>
+      </view>
+      <image src='../../images/shipin.png'></image>
+    </view>
+    <view class='user-label'>
+      <view>最高人气</view>
+      <view>最高人气</view>
+      <view>最高人气</view>
+      <view>最高人气</view>
+    </view>
+    <view class='recomment-text'>
+      <view class='store-title'>
+        <view>店铺名称店铺名称店铺名称店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/hongdianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+   <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/bofangshipin.png'></image>
+      </view>
+      <image src='../../images/shipin.png'></image>
+    </view>
+    <view class='user-label'>
+      <view>最高人气</view>
+      <view>最高人气</view>
+      <view>最高人气</view>
+      <view>最高人气</view>
+    </view>
+    <view class='recomment-text'>
+      <view class='store-title'>
+        <view>店铺名称店铺名称店铺名称店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/hongdianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='tabBar clearfix'>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/hongvideo.png'></image>
+    </view>
+    <view>视频</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/huishop.png'></image>
+    </view>
+    <view>商品</view>
+  </view>
+</view>

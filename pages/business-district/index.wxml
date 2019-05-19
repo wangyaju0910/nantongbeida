@@ -1,0 +1,128 @@
+<view class='image'>
+  <image src='../../images/banner-beijing.png'></image>
+</view>
+<view class='business-district'>
+  <view class='user-message'>
+    <view class='user-img'>
+      <image src='../../images/头像@2x.png'></image>
+    </view>
+    <view class='user-name'>商圈A</view>
+    <view class='user-user-title'>店铺名店铺名</view>
+  </view>
+  <view class='user-introduce'>商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍商圈介绍</view>
+  <view class='user-localtion'>
+    <view class='localtion-img'>
+      <image src='../../images/dizhi.png'></image>
+    </view>
+    <view>商圈位置：xxxxxxxxxxxxxxxxxxxx</view>
+  </view>
+  <view class='user-label'>
+    <view>最高人气</view>
+    <view>最高人气</view>
+    <view>最高人气</view>
+    <view>最高人气</view>
+  </view>
+</view>
+<view class='header-nav'>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+  <view>推荐</view>
+</view>
+<view class='recomment-list'>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/播放.png'></image>
+      </view>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/hongdianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/播放.png'></image>
+      </view>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/hongdianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/播放.png'></image>
+      </view>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/hongdianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/播放.png'></image>
+      </view>
+      <image src='../../images/图片@2x.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/hongdianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,48 @@
+.video-play {
+  height: 100%;
+  width: 100%;
+}
+
+.video-play .video {
+  width: 750rpx;
+  height: 1180rpx;
+  overflow: hidden;
+}
+
+.video-play .video image {
+  width: 100%;
+  height: 100%;
+}
+
+.play-button {
+  width: 200rpx;
+  height: 200rpx;
+  position: absolute;
+  top: 490rpx;
+  left: 270rpx;
+}
+
+.play-button image {
+  width: 100%;
+  height: 100%;
+}
+
+.small-icon {
+  position: absolute;
+  top: 400rpx;
+  left: 0rpx;
+  color: #fff;
+  font-size: 24rpx;
+}
+.iconone{
+  margin: 50rpx 0;
+}
+.iconone .iconone-img {
+  width: 46rpx;
+  height: 46rpx;
+}
+
+.iconone-img image {
+  width: 100%;
+  height: 100%;
+}

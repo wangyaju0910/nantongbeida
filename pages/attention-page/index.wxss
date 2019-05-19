@@ -152,3 +152,6 @@
     width: 100%;
     height: 100%;
   }
+  Page{
+  padding-bottom: 100rpx;
+}

@@ -40,10 +40,10 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 3,
+			"current": 7,
 			"list": [
 				{
-					"id": -1,
+					"id": 0,
 					"name": "视频专区-推荐",
 					"pathName": "pages/video-recommend/index",
 					"query": "",
@@ -57,16 +57,44 @@
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 2,
 					"name": "视频专区-地区",
 					"pathName": "pages/region-page/index",
 					"query": "",
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 3,
 					"name": "地区详情",
 					"pathName": "pages/region-detail/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "商圈",
+					"pathName": "pages/business-district/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 5,
+					"name": "店铺商品",
+					"pathName": "pages/store-commodity/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "店铺视频",
+					"pathName": "pages/store-video/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "店铺视频-未播放",
+					"pathName": "pages/no-play/index",
 					"query": "",
 					"scene": null
 				}

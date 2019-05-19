@@ -1,7 +1,7 @@
 <view class='region'>
   <view class='region-list'>
     <view class='region-img'>
-      <image src='../../images/banner@2x.png'></image>
+      <image src='../../images/banner.png'></image>
       <view class='region-content'>
         <view class='region-title'>
           <view class='title'>地区A</view>
@@ -13,7 +13,7 @@
   </view>
    <view class='region-list'>
     <view class='region-img'>
-      <image src='../../images/banner@2x.png'></image>
+      <image src='../../images/banner.png'></image>
       <view class='region-content'>
         <view class='region-title'>
           <view class='title'>地区A</view>
