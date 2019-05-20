@@ -170,6 +170,7 @@
   </view>
   <view class='tabBar-list'>
     <view  class='tabBar-img'>
+      <view class='yuandian'></view>
       <image src='../../images/huidiqu.png'></image>
     </view>
     <view>地区</view>

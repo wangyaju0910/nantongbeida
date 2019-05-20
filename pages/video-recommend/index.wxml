@@ -111,19 +111,20 @@
 </view>
 <view class='tabBar'>
   <view class='tabBar-list'>
-    <view  class='tabBar-img'>
+    <view class='tabBar-img'>
       <image src='../../images/hongtuijian.png'></image>
     </view>
     <view>推荐</view>
   </view>
   <view class='tabBar-list'>
-    <view  class='tabBar-img'>
+    <view class='tabBar-img'>
       <image src='../../images/huiguanzhu.png'></image>
     </view>
     <view>关注</view>
   </view>
   <view class='tabBar-list'>
-    <view  class='tabBar-img'>
+    <view class='tabBar-img'>
+      <view class='yuandian'></view>
       <image src='../../images/huidiqu.png'></image>
     </view>
     <view>地区</view>
