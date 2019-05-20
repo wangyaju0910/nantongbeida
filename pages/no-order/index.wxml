@@ -1,0 +1,15 @@
+<view class='order-list'>
+  <view>全部</view>
+  <view>待付</view>
+  <view>待发</view>
+  <view>待收</view>
+  <view>已完</view>
+  <view>售后</view>
+</view>
+<view class='order-content'>
+  <view class='content-img'>
+    <image src='../../images/wudingdan.png'></image>
+  </view>
+  <view class='no-order'>暂无订单记录</view>
+  <view class='stroll-around'>到处逛逛</view>
+</view>

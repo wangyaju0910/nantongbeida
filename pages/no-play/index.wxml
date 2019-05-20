@@ -14,15 +14,14 @@
     </view>
      <view class='iconone'>
       <view class='iconone-img'>
-        <image src='../../images/fenxiang@2x.png'></image>
+        <image src='../../images/dianzan.png'></image>
       </view>
-      <view>120</view>
+      <view>12</view>
     </view>
      <view class='iconone'>
       <view class='iconone-img'>
-        <image src='../../images/fenxiang@2x.png'></image>
+        <image src='../../images/gouwuche.png'></image>
       </view>
-      <view>120</view>
     </view>
   </view>
 </view>

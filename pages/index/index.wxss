@@ -39,27 +39,32 @@ swiper-item image {
   width: 100%;
   height: 100%;
 }
-.small-nav{
+
+.small-nav {
   display: flex;
   width: 100%;
   height: 30rpx;
-  margin-top:20rpx;
+  margin-top: 20rpx;
   margin-bottom: 30rpx;
 }
-.small-nav .nav-image{
+
+.small-nav .nav-image {
   flex: 1;
   height: 100%;
 }
-.small-nav .nav-image:nth-last-child(1){
+
+.small-nav .nav-image:nth-last-child(1) {
   /* flex: 1; */
   padding: 0 30rpx;
   width: 200rpx;
   height: 163%;
 }
-.nav-image image{
+
+.nav-image image {
   width: 100%;
   height: 100%;
 }
+
 .nav-left>view {
   flex: 1;
 }
@@ -138,76 +143,90 @@ swiper-item image {
   flex: 1;
   color: #cbcbcb;
 }
-.video-list{
+
+.video-list {
   width: 500%;
 }
-.video-list .video-content{
+
+.video-list .video-content {
   float: left;
-  width:17%;
+  width: 17%;
   height: 370rpx;
   margin: 0 20rpx;
   position: relative;
 }
-.video-content .video-img{
+
+.video-content .video-img {
   width: 100%;
   height: 100%;
   position: relative;
 }
-.video-img image{
+
+.video-img image {
   width: 100%;
   height: 100%;
-   border-radius: 10rpx;
+  border-radius: 10rpx;
 }
-.video-img .fenxiang{
+
+.video-img .fenxiang {
   width: 90rpx;
   height: 45rpx;
   position: absolute;
-  top:0;
+  top: 0;
   right: 0;
 }
-.fenxiang iamge{
-  width: 100%; 
-  height: 100%;
-}
-.video-content .video-bofang{
-  width: 90rpx;
-  height: 90rpx;
-  position: absolute;
-  top:36%;
-  left: 44%;
-}
-.video-bofang image{
+
+.fenxiang iamge {
   width: 100%;
   height: 100%;
 }
-.video-introduce{
+
+.video-content .video-bofang {
+  width: 90rpx;
+  height: 90rpx;
+  position: absolute;
+  top: 36%;
+  left: 44%;
+}
+
+.video-bofang image {
+  width: 100%;
+  height: 100%;
+}
+
+.video-introduce {
   width: 100%;
   display: flex;
   font-size: 30rpx;
   position: absolute;
   bottom: 3rpx;
   left: 0;
-  background-color: rgba(0, 0, 0, .3);
+  background-color: rgba(0, 0, 0, 0.3);
   padding: 20rpx 15rpx;
   box-sizing: border-box;
-  color:#fff;
+  color: #fff;
 }
-.video-introduce .introduce-img{
+
+.video-introduce .introduce-img {
   width: 36rpx;
   height: 36rpx;
   margin-right: 10rpx;
 }
-.video-introduce .give-like{
+
+.video-introduce .give-like {
   flex: 1;
   display: flex;
 }
-.introduce-img image{
+
+.introduce-img image {
   width: 100%;
   height: 100%;
 }
-.video-introduce .introduce-text{
+
+.video-introduce .introduce-text {
   flex: 4;
 }
+
 .new-shop {
   display: flex;
   flex-wrap: wrap;
@@ -234,9 +253,11 @@ swiper-item image {
 .shop-content view:nth-child(1) {
   margin-top: 60rpx;
 }
+
 .shop-content view:nth-child(2) {
   margin-top: 20rpx;
 }
+
 .shop-content view:nth-last-child(-n+2) {
   font-size: 20rpx;
 }
@@ -258,14 +279,16 @@ swiper-item image {
   width: 100%;
   height: 100%;
 }
-.perfume{
+
+.perfume {
   position: absolute;
   top: 0;
   left: 0;
-  color:#fff;
+  color: #fff;
   background-color: #fe5555;
   padding: 0 10rpx;
 }
+
 .seckill {
   display: flex;
   font-size: 26rpx;
@@ -417,18 +440,20 @@ swiper-item image {
   border: 1px solid #999;
   border-radius: 10rpx;
   margin-right: 15rpx;
-} 
-.handpick-list .handpick:nth-of-type(3n){
+}
+
+.handpick-list .handpick:nth-of-type(3n) {
   margin-right: 0;
 }
-.handpick:nth-of-type(-n+3){
+
+.handpick:nth-of-type(-n+3) {
   margin-bottom: 10rpx;
 }
+
 .handpick-list .handpick-img {
   width: 100%;
   height: 260rpx;
   position: relative;
-
 }
 
 .handpick-img .recom {
@@ -463,7 +488,8 @@ swiper-item image {
   width: 100%;
   height: 250rpx;
 }
-.series image{
+
+.series image {
   height: 100%;
   width: 100%;
 }
@@ -520,4 +546,56 @@ swiper-item image {
 .handpick-price {
   color: #ff5656;
   margin: 5rpx 0;
+}
+.special-button {
+  position: fixed;
+  bottom: 238rpx;
+  right: 25rpx;
+}
+.special-button .customization {
+  width: 86rpx;
+  height: 86rpx;
+}
+.special-button .customization:nth-child(1) {
+  margin-bottom: 20rpx;
+}
+
+.customization image {
+  width: 100%;
+  height: 100%;
+}
+
+.tabBar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-size: 25rpx;
+  color: #ccc;
+  background-color: #fff;
+  display: flex;
+  padding: 10rpx 0 10rpx 0;
+}
+
+.tabBar .tabBar-list {
+  flex: 1;
+  text-align: center;
+}
+
+.tabBar-list .tabBar-img {
+  width: 40rpx;
+  height: 40rpx;
+  margin-left: 75rpx;
+}
+
+.tabBar-img image {
+  width: 100%;
+  height: 100%;
+}
+
+.tabBar-list:nth-child(1) .tabBar-title {
+  color: rgb(255, 85, 85);
+}
+Page{
+  padding-bottom: 92rpx;
 }

@@ -40,7 +40,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 7,
+			"current": 23,
 			"list": [
 				{
 					"id": 0,
@@ -85,16 +85,128 @@
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 6,
 					"name": "店铺视频",
 					"pathName": "pages/store-video/index",
 					"query": "",
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 7,
 					"name": "店铺视频-未播放",
 					"pathName": "pages/no-play/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "视频-以播放",
+					"pathName": "pages/now-play/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "视频-购买",
+					"pathName": "pages/buy-play/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "无订单",
+					"pathName": "pages/no-order/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 11,
+					"name": "待付款",
+					"pathName": "pages/obligation-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 12,
+					"name": "待发货",
+					"pathName": "pages/deliver-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 13,
+					"name": "待收货",
+					"pathName": "pages/take-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 14,
+					"name": "已收货",
+					"pathName": "pages/received-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 16,
+					"name": "售后",
+					"pathName": "pages/after-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "已取消",
+					"pathName": "pages/cancel-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 17,
+					"name": "申请入驻-未勾选",
+					"pathName": "pages/apply-unselected/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "申请入驻-已勾选",
+					"pathName": "pages/apply-selected/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "申请入驻",
+					"pathName": "pages/apply-enter/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "申请入驻-提交成功",
+					"pathName": "pages/submit-successfully/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 21,
+					"name": "主页-弹窗",
+					"pathName": "pages/index-window/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 22,
+					"name": "主页-售后保障",
+					"pathName": "pages/index-safeguard/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "首页-专属定制",
+					"pathName": "pages/exclusive-customization/index",
 					"query": "",
 					"scene": null
 				}

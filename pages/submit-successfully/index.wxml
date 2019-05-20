@@ -1,0 +1,8 @@
+<view class='submint'>
+  <view class='submint-img'>
+    <image src='../../images/datubiaowancheng@2x.png'></image>
+  </view>
+  <view>提交申请成功，审核时间3-5个工作日</view>
+  <view class='wait'>请您耐心等待</view>
+  <view class='submit-back'>返回首页</view>
+</view>

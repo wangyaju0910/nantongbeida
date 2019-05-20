@@ -97,7 +97,7 @@
 .recomment-text .text-img{
   width: 25rpx;
   height: 25rpx;
-  background-color: red;
+  /* background-color: red; */
   margin-right: 10rpx;
   }
   .text-img image{

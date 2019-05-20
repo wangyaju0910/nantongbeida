@@ -60,7 +60,7 @@
 }
 .recomment-content .recomment-img{
   width: 100%;
-  height: 325rpx;
+  height: 390rpx;
   position: relative;
 }
 .recomment-img image{
@@ -97,7 +97,7 @@
 .recomment-text .text-img{
   width: 25rpx;
   height: 25rpx;
-  background-color: red;
+  /* background-color: red; */
   margin-right: 10rpx;
   }
   .text-img image{

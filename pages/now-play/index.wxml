@@ -1,0 +1,24 @@
+<view class='video-play'>
+  <view class='video'>
+    <image src='../../images/banner-video@2x.png'></image>
+  </view>
+  <view class='small-icon'>
+    <view class='iconone'>
+      <view class='iconone-img'>
+        <image src='../../images/fenxiang@2x.png'></image>
+      </view>
+      <view>120</view>
+    </view>
+     <view class='iconone'>
+      <view class='iconone-img'>
+        <image src='../../images/yidianzan.png'></image>
+      </view>
+      <view>12</view>
+    </view>
+     <view class='iconone'>
+      <view class='iconone-img'>
+        <image src='../../images/gouwuche.png'></image>
+      </view>
+    </view>
+  </view>
+</view>

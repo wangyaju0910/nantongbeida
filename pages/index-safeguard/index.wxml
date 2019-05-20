@@ -1,0 +1,486 @@
+<view class='nb-sousuo'>
+  <view class='sousuo-content'>
+    <view class='sousuo-img'>
+      <image src='../../images/图标3@2x.png'></image>
+    </view>
+    <view>YSL口红</view>
+  </view>
+</view>
+<swiper autoplay indicator-dots indicator-color="#fe9799" indicator-active-color="#fd5754" circular>
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='small-nav'>
+  <view class='nav-image'>
+    <image src='../../images/ccc.jpg'></image>
+  </view>
+  <view class='nav-image'>
+    <image src='../../images/ddd.jpg'></image>
+  </view>
+  <view class='nav-image'>
+    <image src='../../images/aaa.jpg'></image>
+  </view>
+  <view class='nav-image'>
+    <image src='../../images/bbb.jpg'></image>
+  </view>
+</view>
+<view class='nav'>
+  <view class='nav-list'>
+    <view class='list-img'>
+      <image src='../../images/图标9@2x.png'></image>
+    </view>
+    <view class='list-name'>母婴用品</view>
+  </view>
+  <view class='nav-list'>
+    <view class='list-img'>
+      <image src='../../images/图标10@2x.png'></image>
+    </view>
+    <view class='list-name'>母婴用品</view>
+  </view>
+  <view class='nav-list'>
+    <view class='list-img'>
+      <image src='../../images/图标11@2x.png'></image>
+    </view>
+    <view class='list-name'>母婴用品</view>
+  </view>
+  <view class='nav-list'>
+    <view class='list-img'>
+      <image src='../../images/图标12@2x.png'></image>
+    </view>
+    <view class='list-name'>母婴用品</view>
+  </view>
+  <view class='nav-list'>
+    <view class='list-img'>
+      <image src='../../images/图标13@2x.png'></image>
+    </view>
+    <view class='list-name'>母婴用品</view>
+  </view>
+  <view class='nav-list'>
+    <view class='list-img'>
+      <image src='../../images/图标14@2x.png'></image>
+    </view>
+    <view class='list-name'>母婴用品</view>
+  </view>
+  <view class='nav-list'>
+    <view class='list-img'>
+      <image src='../../images/图标15@2x.png'></image>
+    </view>
+    <view class='list-name'>母婴用品</view>
+  </view>
+  <view class='nav-list'>
+    <view class='list-img'>
+      <image src='../../images/图标16@2x.png'></image>
+    </view>
+    <view class='list-name'>母婴用品</view>
+  </view>
+</view>
+<view class='video-title'>
+  <view>视频天下店</view>
+  <navigator>查看更多 ></navigator>
+</view>
+<view class='video-list'>
+  <view class='video-content'>
+    <view class='video-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <image src='../../images/shipintianxiadian@2x.png'></image>
+    </view>
+    <view class='video-bofang'>
+      <image src='../../images/播放.png'></image>
+    </view>
+    <view class='video-introduce'>
+      <view class='introduce-text'>南通北达视频天下店</view>
+      <view class='give-like'>
+        <view class='introduce-img'>
+          <image src='../../images/huidianzan.png'></image>
+        </view>
+        <view>10000</view>
+      </view>
+    </view>
+  </view>
+  <view class='video-content'>
+    <view class='video-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <image src='../../images/shipintianxiadian@2x.png'></image>
+    </view>
+    <view class='video-bofang'>
+      <image src='../../images/播放.png'></image>
+    </view>
+    <view class='video-introduce'>
+      <view class='introduce-text'>南通北达视频天下店</view>
+      <view class='give-like'>
+        <view class='introduce-img'>
+          <image src='../../images/huidianzan.png'></image>
+        </view>
+        <view>10000</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='new-shop'>
+  <view class='shop-list'>
+    <view class='shop-content'>
+      <view>精选送礼</view>
+      <view>个性完美</view>
+      <view>捕捉女香的精髓</view>
+    </view>
+    <view class='shop-img'>
+      <image src='../../images/组2@2x.png'></image>
+      <view class='perfume'>香水</view>
+    </view>
+  </view>
+  <view class='shop-list'>
+    <view class='shop-content'>
+      <view>精选送礼</view>
+      <view>个性完美</view>
+      <view>捕捉女香的精髓</view>
+    </view>
+    <view class='shop-img'>
+      <image src='../../images/组2@2x.png'></image>
+      <view class='perfume'>香水</view>
+    </view>
+  </view>
+  <view class='shop-list'>
+    <view class='shop-content'>
+      <view>精选送礼</view>
+      <view>个性完美</view>
+      <view>捕捉女香的精髓</view>
+    </view>
+    <view class='shop-img'>
+      <image src='../../images/组2@2x.png'></image>
+      <view class='perfume'>香水</view>
+    </view>
+  </view>
+  <view class='shop-list'>
+    <view class='shop-content'>
+      <view>精选送礼</view>
+      <view>个性完美</view>
+      <view>捕捉女香的精髓</view>
+    </view>
+    <view class='shop-img'>
+      <image src='../../images/组2@2x.png'></image>
+      <view class='perfume'>香水</view>
+    </view>
+  </view>
+</view>
+<view class='seckill'>
+  <view class='seckill-now'>
+    <view>今日秒杀</view>
+    <view class='time'>
+      <view>12</view>
+      <view>:</view>
+      <view>00</view>
+      <view>:</view>
+      <view>00</view>
+    </view>
+  </view>
+  <navigator>查看更多 ></navigator>
+</view>
+<view class='seckill-list'>
+  <view class='list'>
+    <view class='list-image'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='list-content'>
+      <p>商品名称商品名称商品名称</p>
+      <view class='now-price'>HK$ 10000.00</view>
+      <view class='deleted-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='list'>
+    <view class='list-image'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='list-content'>
+      <p>商品名称商品名称商品名称</p>
+      <view class='now-price'>HK$ 10000.00</view>
+      <view class='deleted-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='list'>
+    <view class='list-image'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='list-content'>
+      <p>商品名称商品名称商品名称</p>
+      <view class='now-price'>HK$ 10000.00</view>
+      <view class='deleted-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='list'>
+    <view class='list-image'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='list-content'>
+      <p>商品名称商品名称商品名称</p>
+      <view class='now-price'>HK$ 10000.00</view>
+      <view class='deleted-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+</view>
+<view class='segmentation'>
+  <image src='../../images/chaoji.png'></image>
+</view>
+<view class='recommend'>
+  <view>品牌推荐</view>
+  <navigator>查看更多 ></navigator>
+</view>
+<view class='recommend-list'>
+  <view class='recommend-img'>
+    <image src='../../images/1@2x.png'></image>
+  </view>
+  <view class='recommend-img'>
+    <image src='../../images/1@2x.png'></image>
+  </view>
+  <view class='recommend-img'>
+    <image src='../../images/1@2x.png'></image>
+  </view>
+  <view class='recommend-img'>
+    <image src='../../images/1@2x.png'></image>
+  </view>
+  <view class='recommend-img'>
+    <image src='../../images/1@2x.png'></image>
+  </view>
+  <view class='recommend-img'>
+    <image src='../../images/1@2x.png'></image>
+  </view>
+  <view class='recommend-img'>
+    <image src='../../images/1@2x.png'></image>
+  </view>
+  <view class='recommend-img'>
+    <image src='../../images/1@2x.png'></image>
+  </view>
+</view>
+<view class='segmentation'>
+  <image src='../../images/chaoji.png'></image>
+</view>
+<view class='seckill'>
+  <view class='seckill-now'>
+    <view>品牌精选</view>
+  </view>
+  <navigator>查看更多 ></navigator>
+</view>
+<view class='handpick-list'>
+  <view class='handpick'>
+    <view class='handpick-img'>
+      <view class='recom'>推荐</view>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='handpick'>
+    <view class='handpick-img'>
+      <view class='recom'>推荐</view>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='handpick'>
+    <view class='handpick-img'>
+      <view class='recom'>推荐</view>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='handpick'>
+    <view class='handpick-img'>
+      <view class='recom'>推荐</view>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='handpick'>
+    <view class='handpick-img'>
+      <view class='recom'>推荐</view>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='handpick'>
+    <view class='handpick-img'>
+      <view class='recom'>推荐</view>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+</view>
+<view class='series'>
+  <image src='../../images/组7@2x.png'></image>
+</view>
+<view class='handpick-list'>
+  <view class='shop'>
+    <view class='shop-img'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='shop'>
+    <view class='shop-img'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+</view>
+<view class='series'>
+  <image src='../../images/组7@2x.png'></image>
+</view>
+<view class='handpick-list'>
+  <view class='shop'>
+    <view class='handpick-img'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='shop'>
+    <view class='handpick-img'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+</view>
+<view class='series'>
+  <image src='../../images/组7@2x.png'></image>
+</view>
+<view class='handpick-list'>
+  <view class='shop'>
+    <view class='handpick-img'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='shop'>
+    <view class='handpick-img'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+</view>
+<view class='series'>
+  <image src='../../images/组7@2x.png'></image>
+</view>
+<view class='handpick-list'>
+  <view class='shop'>
+    <view class='handpick-img'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+  <view class='shop'>
+    <view class='handpick-img'>
+      <image src='../../images/首页-新_07.jpg'></image>
+    </view>
+    <view class='handpick-content'>
+      <p>商品名称商品名称商</p>
+      <view class='handpick-price'>HK$ 10000.00</view>
+    </view>
+  </view>
+</view>
+<view class='special-button'>
+  <view class='customization'>
+    <image src='../../images/wodekefu.png'></image>
+  </view>
+  <view class='customization'>
+    <image src='../../images/zhuanshudingzhi.png'></image>
+  </view>
+</view>
+<view class='safeguard'>
+  <view class='after-safeguard'>
+    <view class='safeguard-title'>售后保障</view>
+    <view class='safeguard-content'>
+      <view class='content-img'>
+        <image src='../../images/xianggangzhiyou.png'></image>
+      </view>
+      <view class='content-details'>
+        南通北达平台所有商品由香港本地注册的供应商供应，接受严格的香港本地法律监控，并由中国邮政速递香港物流公司供应链承接，经由海关监控，保证100%正品
+      </view>
+    </view>
+    <view class='safeguard-content'>
+      <view class='content-img'>
+        <image src='../../images/zhengpin.png'></image>
+      </view>
+      <view class='content-details'>
+        南通北达平台所有商品由香港本地注册的供应商供应，经由海关监控，保证100%正品
+      </view>
+    </view>
+    <view class='safeguard-content'>
+      <view class='content-img'>
+        <image src='../../images/quanchangbaoshui.png'></image>
+      </view>
+      <view class='content-details'>
+        在南通北达平台购买任意商品。由南通北达平台承担税费
+      </view>
+    </view>
+    <view class='my-button'>我知道了</view>
+  </view>
+</view>
+<view class='tabBar'>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/hongshouye.jpg'></image>
+    </view>
+    <view class='tabBar-title'>首页</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/huifenlei.jpg'></image>
+    </view>
+    <view class='tabBar-title'>分类</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/huigouwuche.jpg'></image>
+    </view>
+    <view class='tabBar-title'>购物车</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/huiwode.jpg'></image>
+    </view>
+    <view class='tabBar-title'>我的</view>
+  </view>
+</view>

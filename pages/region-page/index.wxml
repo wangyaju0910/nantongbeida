@@ -27,19 +27,19 @@
 <view class='tabBar'>
   <view class='tabBar-list'>
     <view class='tabBar-img'>
-      <image src='../../images/图标1@2x.png'></image>
+      <image src='../../images/huituijian.png'></image>
     </view>
     <view>推荐</view>
   </view>
   <view class='tabBar-list'>
     <view class='tabBar-img'>
-      <image src='../../images/图标1@2x.png'></image>
+      <image src='../../images/huiguanzhu.png'></image>
     </view>
     <view>关注</view>
   </view>
   <view class='tabBar-list'>
     <view class='tabBar-img'>
-      <image src='../../images/图标1@2x.png'></image>
+      <image src='../../images/hongdiqu.png'></image>
     </view>
     <view>地区</view>
   </view>

@@ -1,0 +1,59 @@
+<view class='video-play'>
+  <view class='video'>
+    <image src='../../images/banner-video@2x.png'></image>
+  </view>
+  <view class='small-icon'>
+    <view class='iconone'>
+      <view class='iconone-img'>
+        <image src='../../images/fenxiang@2x.png'></image>
+      </view>
+      <view>120</view>
+    </view>
+     <view class='iconone'>
+      <view class='iconone-img'>
+        <image src='../../images/yidianzan.png'></image>
+      </view>
+      <view>12</view>
+    </view>
+     <view class='iconone'>
+      <view class='iconone-img'>
+        <image src='../../images/gouwuche.png'></image>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='buy-video'>
+  <view class='buy-content'>
+    <view class='video-list'>
+    <view class='video-img'>
+      <image src='../../images/goumai.png'></image>
+    </view>
+    <view class='video-content'>
+      <view class='content-title'>商品名称商品名称商品名称商品名称</view>
+      <view class='content-price'>HK$ 1314</view>
+    </view>
+  </view>
+  <view class='video-list'>
+    <view class='video-img'>
+      <image src='../../images/goumai.png'></image>
+    </view>
+    <view class='video-content'>
+      <view class='content-title'>商品名称商品名称商品名称商品名称</view>
+      <view class='content-price'>HK$ 1314</view>
+    </view>
+  </view>
+  <view class='video-list'>
+    <view class='video-img'>
+      <image src='../../images/goumai.png'></image>
+    </view>
+    <view class='video-content'>
+      <view class='content-title'>商品名称商品名称商品名称商品名称</view>
+      <view class='content-price'>HK$ 1314</view>
+    </view>
+  </view>
+  </view>
+  <view class='button'>
+    <button>全部商品</button>
+    <button>全部视频</button>
+  </view>
+</view>

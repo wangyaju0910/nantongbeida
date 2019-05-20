@@ -24,7 +24,7 @@
       <view class='video-bofang'>
         <image src='../../images/播放.png'></image>
       </view>
-      <image src='../../images/图片@2x.png'></image>
+      <image src='../../images/shipinzhuanqu.png'></image>
     </view>
     <view class='recomment-text'>
       <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
@@ -32,7 +32,76 @@
         <view>店铺名称</view>
         <view class='store-img'>
           <view class='text-img'>
-            <image src='../../images/.png'></image>
+            <image src='../../images/shipindianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/播放.png'></image>
+      </view>
+      <image src='../../images/shipinzhuanqu.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/shipindianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/播放.png'></image>
+      </view>
+      <image src='../../images/shipinzhuanqu.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/shipindianzan.png'></image>
+          </view>
+          <view>10000</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <view class='fenxiang'>
+        <image src='../../images/fenxiang.png'></image>
+      </view>
+      <view class='video-bofang'>
+        <image src='../../images/播放.png'></image>
+      </view>
+      <image src='../../images/shipinzhuanqu.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>店铺名称</view>
+        <view class='store-img'>
+          <view class='text-img'>
+            <image src='../../images/shipindianzan.png'></image>
           </view>
           <view>10000</view>
         </view>
@@ -43,19 +112,19 @@
 <view class='tabBar'>
   <view class='tabBar-list'>
     <view  class='tabBar-img'>
-      <image src='../../images/图标1@2x.png'></image>
+      <image src='../../images/hongtuijian.png'></image>
     </view>
     <view>推荐</view>
   </view>
   <view class='tabBar-list'>
     <view  class='tabBar-img'>
-      <image src='../../images/图标1@2x.png'></image>
+      <image src='../../images/huiguanzhu.png'></image>
     </view>
     <view>关注</view>
   </view>
   <view class='tabBar-list'>
     <view  class='tabBar-img'>
-      <image src='../../images/图标1@2x.png'></image>
+      <image src='../../images/huidiqu.png'></image>
     </view>
     <view>地区</view>
   </view>

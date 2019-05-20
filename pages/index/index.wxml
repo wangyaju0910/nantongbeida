@@ -87,7 +87,7 @@
       <view class='fenxiang'>
         <image src='../../images/fenxiang.png'></image>
       </view>
-      <image src='../../images/组1@2x.png'></image>
+      <image src='../../images/shipintianxiadian@2x.png'></image>
     </view>
     <view class='video-bofang'>
       <image src='../../images/播放.png'></image>
@@ -96,7 +96,7 @@
       <view class='introduce-text'>南通北达视频天下店</view>
       <view class='give-like'>
         <view class='introduce-img'>
-          <image src='../../images/点赞@2x.png'></image>
+          <image src='../../images/huidianzan.png'></image>
         </view>
         <view>10000</view>
       </view>
@@ -107,7 +107,7 @@
       <view class='fenxiang'>
         <image src='../../images/fenxiang.png'></image>
       </view>
-      <image src='../../images/组1@2x.png'></image>
+      <image src='../../images/shipintianxiadian@2x.png'></image>
     </view>
     <view class='video-bofang'>
       <image src='../../images/播放.png'></image>
@@ -116,7 +116,7 @@
       <view class='introduce-text'>南通北达视频天下店</view>
       <view class='give-like'>
         <view class='introduce-img'>
-          <image src='../../images/点赞@2x.png'></image>
+         <image src='../../images/huidianzan.png'></image>
         </view>
         <view>10000</view>
       </view>
@@ -225,7 +225,7 @@
   </view>
 </view>
 <view class='segmentation'>
-  <image src='../../images/banner@2x.png'></image>
+  <image src='../../images/chaoji.png'></image>
 </view>
 <view class='recommend'>
   <view>品牌推荐</view>
@@ -258,7 +258,7 @@
   </view>
 </view>
 <view class='segmentation'>
-  <image src='../../images/banner@2x.png'></image>
+  <image src='../../images/chaoji.png'></image>
 </view>
 <view class='seckill'>
   <view class='seckill-now'>
@@ -337,7 +337,7 @@
       <image src='../../images/首页-新_07.jpg'></image>
     </view>
     <view class='handpick-content'>
-      <p>商品名称商品名称商</p>
+      <p>商品名称商品名称商</p> 
       <view class='handpick-price'>HK$ 10000.00</view>
     </view>
   </view>
@@ -418,5 +418,39 @@
       <p>商品名称商品名称商</p>
       <view class='handpick-price'>HK$ 10000.00</view>
     </view>
+  </view>
+</view>
+<view class='special-button'>
+  <view class='customization'>
+    <image src='../../images/wodekefu.png'></image>
+  </view>
+  <view class='customization'>
+    <image src='../../images/zhuanshudingzhi.png'></image>
+  </view>
+</view>
+<view class='tabBar'>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/hongshouye.jpg'></image>
+    </view>
+    <view class='tabBar-title'>首页</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/huifenlei.jpg'></image>
+    </view>
+    <view class='tabBar-title'>分类</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/huigouwuche.jpg'></image>
+    </view>
+    <view class='tabBar-title'>购物车</view>
+  </view>
+  <view class='tabBar-list'>
+    <view class='tabBar-img'>
+      <image src='../../images/huiwode.jpg'></image>
+    </view>
+    <view class='tabBar-title'>我的</view>
   </view>
 </view>

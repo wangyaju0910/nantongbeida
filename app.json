@@ -1,6 +1,9 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/index-window/index",
+    "pages/index-safeguard/index",
+    "pages/exclusive-customization/index",
     "pages/logs/logs",
     "pages/video-recommend/index",
     "pages/attention-page/index",
@@ -9,7 +12,20 @@
     "pages/business-district/index",
     "pages/store-commodity/index",
     "pages/store-video/index",
-    "pages/no-play/index"
+    "pages/no-play/index",
+    "pages/now-play/index",
+    "pages/buy-play/index",
+    "pages/no-order/index",
+    "pages/obligation-page/index",
+    "pages/deliver-page/index",
+    "pages/take-page/index",
+    "pages/received-page/index",
+    "pages/after-page/index",
+    "pages/cancel-page/index",
+    "pages/apply-unselected/index",
+    "pages/apply-selected/index",
+    "pages/apply-enter/index",
+    "pages/submit-successfully/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -17,26 +33,5 @@
     "navigationBarTitleText": "南通北达香港购物",
     "navigationBarTextStyle": "black"
   },
-  "sitemapLocation": "sitemap.json",
-  "tabBar":{
-    "color":"#cccccc",
-    "list":[
-      {
-        "pagePath":"pages/index/index",
-        "text":"首页"
-      },
-      {
-        "pagePath": "pages/index/index",
-        "text": "分类"
-      },
-      {
-        "pagePath": "pages/index/index",
-        "text": "购物车"
-      },
-      {
-        "pagePath": "pages/index/index",
-        "text": "我的"
-      }
-    ]
-  }
+  "sitemapLocation": "sitemap.json"
 }

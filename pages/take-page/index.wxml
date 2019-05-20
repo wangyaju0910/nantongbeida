@@ -1,0 +1,36 @@
+<view class='order-list'>
+  <view>全部</view>
+  <view>待付</view>
+  <view>待发</view>
+  <view>待收</view>
+  <view>已完</view>
+  <view>售后</view>
+</view>
+<view class='obligation-list clearfix'>
+  <view class='obligation-title'>
+    <view>订单号：123456798101010101010</view>
+    <view>待收货</view>
+  </view>
+  <view class='obligation-content'>
+    <view class='content-img'>
+      <image src='../../images/naifen.png'></image>
+    </view>
+    <view class='content-title'>
+      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+      <view class='versions-versions'>经典版3段800克</view>
+      <view class='content-price'>
+        <view>HK$ 1000.00</view>
+        <view>x1</view>
+      </view>
+    </view>
+  </view>
+  <view class='amount-price clearfix'>
+    <view class='amount'>共一个商品 实付 
+      <view class='price'>HK$ 1000.00</view>
+    </view>
+  </view>
+  <view class='button'>
+    <view>查看物流</view>
+    <view>确认收货</view>
+  </view>
+</view>

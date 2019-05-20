@@ -1,0 +1,42 @@
+<view class='apply-enter'>
+  <view class='apply-list'>
+    <view>品牌名称</view>
+    <input placeholder='请输入品牌名称'></input>
+  </view>
+  <view class='apply-list'>
+    <view>产品名称</view>
+    <input placeholder='请输入产品名称'></input>
+  </view>
+  <view class='apply-list'>
+    <view>产品规格</view>
+    <input placeholder='请输入产品规格'></input>
+  </view>
+  <view class='apply-list'>
+    <view>产品颜色</view>
+    <input placeholder='请输入产品颜色'></input>
+  </view>
+  <view class='apply-list'>
+    <view>产品数量</view>
+    <input placeholder='请输入产品数量'></input>
+  </view>
+  <view class='apply-list'>
+    <view>联系人姓名</view>
+    <input placeholder='请输入联系人姓名'></input>
+  </view>
+  <view class='apply-list'>
+    <view>联系人电话</view>
+    <input placeholder='请输入联系人电话'></input>
+  </view>
+</view>
+<view class='uplaod-pic'>
+  <view class='pic-title'>
+    <view>上传示例产品图片</view>
+    <view>最多上传3张照片</view>
+  </view>
+  <view class='pic-img'>
+    <image src='../../images/shangchuantupian.png'></image>
+  </view>
+</view>
+<view class='upload-button'>
+  <view>提交定制</view>
+</view>
