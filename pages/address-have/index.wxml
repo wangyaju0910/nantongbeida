@@ -1,0 +1,59 @@
+<view class='take-address'>
+  <view class='address-basic'>
+    <view>李晓明 10000000000</view>
+    <view>广东省 广州市 天河区 车陂中山大道西00000号</view>
+    <view>证件号：0000000000000000</view>
+  </view>
+  <view class='address-xuanze'>
+    <view class='xuanze'>
+      <view class='xuanze-img'>
+        <image src='../../images/xuanzhong.png'></image>
+      </view>
+      <view>设为默认地址</view>
+    </view>
+    <view class='compile-delete'>
+      <view class='compile'>
+        <view class='compile-img'>
+          <image src='../../images/bianji@2x.png'></image>
+        </view>
+        <view>编辑</view>
+      </view>
+      <view class='compile'>
+        <view class='compile-img'>
+          <image src='../../images/shanchu@2x.png'></image>
+        </view>
+        <view>删除</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='take-address'>
+  <view class='address-basic'>
+    <view>李晓明 10000000000</view>
+    <view>广东省 广州市 天河区 车陂中山大道西00000号</view>
+    <view>证件号：0000000000000000</view>
+  </view>
+  <view class='address-xuanze'>
+    <view class='xuanze'>
+      <view class='xuanze-img'>
+        <image src='../../images/weixuanzhong.png'></image>
+      </view>
+      <view>设为默认地址</view>
+    </view>
+    <view class='compile-delete'>
+      <view class='compile'>
+        <view class='compile-img'>
+          <image src='../../images/bianji@2x.png'></image>
+        </view>
+        <view>编辑</view>
+      </view>
+      <view class='compile'>
+        <view class='compile-img'>
+          <image src='../../images/shanchu@2x.png'></image>
+        </view>
+        <view>删除</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='add-address'>+添加收货地址</view>

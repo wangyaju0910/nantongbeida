@@ -1,0 +1,117 @@
+<swiper indicator-dots indicator-color="rgb(221,187,187)" indicator-active-color="rgb(255,85,85)" autoplay circular>
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150" />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='special-button'>
+  <view class='customization'>
+    <image src='../../images/wodekefu.png'></image>
+  </view>
+  <view class='customization'>
+    <image src='../../images/zhuanshudingzhi.png'></image>
+  </view>
+</view>
+<view class='integral'>
+  <view class='integral-price'>
+    <view>1000</view>
+    <view>积分</view>
+  </view>
+  <view class='integral-fenxiang'>
+    <image src='../../images/fenxiang2@2x.png'></image>
+  </view>
+</view>
+<view class='content'>内容内容内容内容内容内容内容内容内容内容内容内容内容内容</view>
+<view class='expressage'>
+  <view>快递：HK$ 79.00</view>
+  <view>销量：1000件</view>
+</view>
+<view class='safeguard'>
+  <view>
+    <view class='safeguard-pic'>
+      <image src='../../images/1@2x.png'></image>
+    </view>
+  </view>
+  <view>
+    <view class='safeguard-pic'>
+      <image src='../../images/1@2x.png'></image>
+    </view>
+  </view>
+  <view>
+    <view class='safeguard-pic'>
+      <image src='../../images/1@2x.png'></image>
+    </view>
+  </view>
+</view>
+<view class='get-coupon'>
+  <view>领券</view>
+  <view class='coupon-category '>
+    <view>满299减68</view>
+    <view>满299减68</view>
+    <view>满299减68</view>
+  </view>
+  <view class='more'>
+    <image src='../../images/gengduo@2x.png'></image>
+  </view>
+</view>
+<view class='got-coupon'>
+  <view>税费、运费、服务、提醒、积分</view>
+  <view class='more-tow'>
+    <image src='../../images/gengduo@2x.png'></image>
+  </view>
+</view>
+<view class='dianpu-message'>
+  <view class='dianpu-pic'>
+    <image src='../../images/dianpu@2x.png'></image>
+  </view>
+  <view>商家店铺</view>
+  <view class='more-tow'>
+    <image src='../../images/gengduo@2x.png'></image>
+  </view>
+</view>
+<view class='specification'>
+  <view class='specification-content'>
+    <view>请选择</view>
+    <view>规格、数量</view>
+    <view class='more-tow'>
+      <image src='../../images/gengduo@2x.png'></image>
+    </view>
+  </view>
+</view>
+<view class='image-text'>
+  <view class='shop-detail'>
+    <view>商品详情</view>
+    <view>商品参数</view>
+    <view>用户评价</view>
+  </view>
+  <view class='detail-img'>
+    <image src='../../images/details@2x.png'></image>
+  </view>
+</view>
+<view class='tabBar'>
+  <view class='tabBar-list'>
+    <view class='tabBar-nav'>
+      <view class='nav-img'>
+        <image src='../../images/huishouye@2x.png'></image>
+      </view>
+      <view>首页</view>
+    </view>
+    <view class='tabBar-nav'>
+      <view class='nav-img'>
+        <image src='../../images/guanzhu@2x.png'></image>
+      </view>
+      <view>关注</view>
+    </view>
+    <view class='tabBar-nav'>
+      <view class='nav-img'>
+        <image src='../../images/gouwuche@2x.png'></image>
+      </view>
+      <view>购物车</view>
+    </view>
+  </view>
+  <view class='tabBar-button'>
+    <view>加入购物车</view>
+    <view>立即购买</view>
+  </view>
+</view>

@@ -1,0 +1,7 @@
+<view class='attention'>
+  <view class='my-attention'>
+    <image src='../../images/shouhuodizhi@2x.png'></image>
+  </view>
+  <view class='take-delivery'>暂无收货地址</view>
+</view>
+<view class='add-delivery'>+添加收货地址</view>

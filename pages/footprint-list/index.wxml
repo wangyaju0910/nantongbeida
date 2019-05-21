@@ -1,0 +1,104 @@
+<view class='obligation-list clearfix'>
+  <view class='obligation-title'>
+    <view class='quanxuan'>
+      <image src='../../images/xuanzhong.png'></image>
+    </view>
+    <view class='shop-name'>
+      <view class='shop-img'>
+        <image src='../../images/dianpu2@2x.png'></image>
+      </view>
+      <view>店铺名称</view>
+    </view>
+    <view class='shop-timer'>2019-01-01 12:00:00
+      <view class='timer-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='obligation-content'>
+    <view class='xuanzhong-img'>
+      <image src='../../images/xuanzhong.png'></image>
+    </view>
+    <view class='content-img'>
+      <image src='../../images/naifen.png'></image>
+    </view>
+    <view class='content-title'>
+      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+      <view class='content-price'>
+        <view>HK$ 1000.00</view>
+      </view>
+    </view>
+  </view>
+  <view class='obligation-content'>
+    <view class='xuanzhong-img'>
+      <image src='../../images/xuanzhong.png'></image>
+    </view>
+    <view class='content-img'>
+      <image src='../../images/naifen.png'></image>
+    </view>
+    <view class='content-title'>
+      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+      <view class='content-price'>
+        <view>HK$ 1000.00</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='obligation-list clearfix'>
+  <view class='obligation-title'>
+    <view class='quanxuan'>
+      <image src='../../images/xuanzhong.png'></image>
+    </view>
+    <view class='shop-name'>
+      <view class='shop-img'>
+        <image src='../../images/dianpu2@2x.png'></image>
+      </view>
+      <view>店铺名称</view>
+    </view>
+    <view class='shop-timer'>2019-01-01 12:00:00
+      <view class='timer-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='obligation-content'>
+    <view class='xuanzhong-img'>
+      <image src='../../images/xuanzhong.png'></image>
+    </view>
+    <view class='content-img'>
+      <image src='../../images/naifen.png'></image>
+    </view>
+    <view class='content-title'>
+      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+      <view class='content-price'>
+        <view>HK$ 1000.00</view>
+      </view>
+    </view>
+  </view>
+  <view class='obligation-content'>
+    <view class='xuanzhong-img'>
+      <image src='../../images/xuanzhong.png'></image>
+    </view>
+    <view class='content-img'>
+      <image src='../../images/naifen.png'></image>
+    </view>
+    <view class='content-title'>
+      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+      <view class='content-price'>
+        <view>HK$ 1000.00</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='button'>
+  <view class='footer-quanxuan'>
+    <view class='quanxuan-button'>
+      <image src='../../images/weixuanzhong.png'></image>
+    </view>
+    <view>全选</view>
+  </view>
+  <view class='footer-button'>
+    <view>移除</view>
+    <view>取消</view>
+  </view>
+</view>

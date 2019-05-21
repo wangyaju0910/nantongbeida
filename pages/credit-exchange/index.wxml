@@ -1,0 +1,54 @@
+<view class='nb-sousuo'>
+  <view class='sousuo-content'>
+    <view class='sousuo-img'>
+      <image src='../../images/图标3@2x.png'></image>
+    </view>
+    <view>YSL口红</view>
+  </view>
+</view>
+<view class='recomment-list'>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/dianpushangpin.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>积分兑换:1000积分</view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/dianpushangpin.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>积分兑换:1000积分</view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/dianpushangpin.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>积分兑换:1000积分</view>
+      </view>
+    </view>
+  </view>
+  <view class='recomment-content'>
+    <view class='recomment-img'>
+      <image src='../../images/dianpushangpin.png'></image>
+    </view>
+    <view class='recomment-text'>
+      <view class='text-title'>标题标题标题标题标题标题标题标题标题</view>
+      <view class='store-title'>
+        <view>积分兑换:1000积分</view>
+      </view>
+    </view>
+  </view>
+</view>

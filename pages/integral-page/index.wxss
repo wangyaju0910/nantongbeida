@@ -1,0 +1,137 @@
+/* Page{
+  background-color: #f5f5f5;
+} */
+
+.my-integral .integral-img {
+  width: 100%;
+  height: 300rpx;
+  position: relative;
+}
+
+.integral-img image {
+  width: 100%;
+  height: 100%;
+}
+
+.integral-content {
+  position: absolute;
+  top: 60rpx;
+  left: 330rpx;
+  font-size: 25rpx;
+  color: #fff;
+  text-align: center;
+}
+
+.integral-content .integral {
+  padding: 5rpx 25rpx;
+  border-radius: 20rpx;
+  background-color: rgb(255, 162, 57);
+}
+
+.integral-num {
+  font-size: 80rpx;
+  margin-top: 30rpx;
+}
+
+.integral-list {
+  font-size: 30rpx;
+}
+
+.integral-list .integral-shop {
+  display: flex;
+  padding: 25rpx 20rpx;
+  border-bottom: 1px solid #f5f5f5;
+  background-color: #fff;
+}
+
+.integral-shop .shop-left {
+  flex: 20;
+  display: flex;
+}
+.shop-left view:nth-child(2){
+  color:rgb(102, 102, 102);
+}
+
+.integral-shop .shop-right {
+  width: 25rpx;
+  height: 40rpx;
+}
+
+.shop-right image {
+  width: 100%;
+  height: 100%;
+}
+
+.shop-left .shop-img {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 20rpx;
+}
+
+.shop-img image {
+  width: 100%;
+  height: 100%;
+}
+
+.integral-particulars {
+  background-color: #fff;
+  /* margin-top: 35rpx; */
+  font-size: 25rpx;
+  padding: 30rpx 20rpx;
+}
+
+.integral-particulars .particulars-title {
+  text-align: center;
+  font-size: 30rpx;
+  position: relative;
+}
+
+.particulars-title .title {
+  width: 120rpx;
+  height: 40rpx;
+  text-align: center;
+  line-height: 40rpx;
+  background-color: #fff;
+  z-index: 1;
+  position: absolute;
+  top: -17rpx;
+  left: 279rpx;
+  padding: 0 20rpx;
+  color:rgb(102, 102, 102);
+}
+
+.particulars-title .xian {
+  width: 99%;
+  height: 2px;
+  background-color: #f5f5f5;
+}
+
+.particulars-content {
+  border-bottom: 1px dashed #f5f5f5;
+  padding: 30rpx 0;
+}
+
+.content-timer {
+  display: flex;
+  margin-top: 15rpx;
+  font-size: 25rpx;
+}
+
+.content-timer view:nth-child(1) {
+  flex: 10;
+}
+
+.content-timer .num {
+  flex: 1;
+  color: rgb(255, 85, 85);
+}
+
+.content-timer .fu-num {
+  color: #ccc;
+}
+
+.view {
+  width: 100%;
+  height: 35rpx;
+  background-color: #f5f5f5;
+}

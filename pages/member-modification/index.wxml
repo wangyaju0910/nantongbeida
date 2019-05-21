@@ -1,0 +1,30 @@
+<view class='apply-enter'>
+  <view class='apply-list'>
+    <view>姓名</view>
+    <view>李晓明</view>
+  </view>
+  <view class='apply-list'>
+    <view>手机号</view>
+    <view>11111111111</view>
+  </view>
+  <view class='apply-list'>
+    <view>微信号</view>
+    <view>22222222222</view>
+  </view>
+   <view class='apply-list'>
+    <view>身份证号</view>
+    <view>123456789123456798</view>
+  </view>
+   <view class='apply-list'>
+    <view>出生日期</view>
+    <view>1111-22-33</view>
+  </view>
+   <view class='apply-list'>
+    <view>所在城市</view>
+    <view>广东省 广州市</view>
+  </view>
+</view>
+
+<view class='upload-button'>
+  <view>确认修改</view>
+</view>

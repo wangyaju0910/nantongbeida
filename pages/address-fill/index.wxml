@@ -1,0 +1,43 @@
+<view class='apply-enter'>
+  <view class='apply-list'>
+    <view>收件人</view>
+    <view>李晓明</view>
+  </view>
+  <view class='apply-list'>
+    <view>联系电话</view>
+    <view>10000000000</view>
+  </view>
+  <view class='apply-list'>
+    <view>身份证号</view>
+    <view>20000000000000000</view>
+  </view>
+   <view class='apply-list'>
+    <view>所在地区</view>
+    <view>广东省 广州市 天河区</view>
+  </view>
+   <view class='apply-list'>
+    <view>详细地址</view>
+    <view>车陂中山大道00000号</view>
+  </view>
+</view>
+<view class='uplaod-pic'>
+  <view class='shangye-pic'>
+    <view class='shangye-title'>身份证上传</view>
+    <view class='shangye-img'>
+      <image src='../../images/shenfenzheng1@2x.png'></image>  
+    </view>
+  </view>
+  <view class='shangye-pic'>
+    <view class='shangye-title'>注册证</view>
+    <view class='shangye-img'>
+      <image src='../../images/shenfenzheng2@2x.png'></image>  
+    </view>
+  </view>
+</view>
+<view class='upload-button'>
+  <view>保存地址</view>
+</view>
+<view class='reminder'>
+  <view>温馨提示：</view>
+  购买境外商品时。需提交身份证进行海关清关申报及实名验证。请填写并确保收件人的真实姓名与身份证号码一致，否则将影响清关。南通北达平台将安全的存储您的信息，并将此信息仅用于商品清关
+</view>

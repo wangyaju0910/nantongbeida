@@ -40,7 +40,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 23,
+			"current": 47,
 			"list": [
 				{
 					"id": 0,
@@ -207,6 +207,181 @@
 					"id": -1,
 					"name": "首页-专属定制",
 					"pathName": "pages/exclusive-customization/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的积分",
+					"pathName": "pages/integral-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "积分兑换",
+					"pathName": "pages/credit-exchange/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "积分-订单",
+					"pathName": "pages/integral-order/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "积分-商品详情",
+					"pathName": "pages/integral-detail/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 28,
+					"name": "我的关注-无",
+					"pathName": "pages/attention-shop/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 29,
+					"name": "我的关注-编辑",
+					"pathName": "pages/attention-list/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的关注-商品",
+					"pathName": "pages/attention-store/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "商品足迹",
+					"pathName": "pages/footprint-page/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 32,
+					"name": "商品足迹-无",
+					"pathName": "pages/footprint-not/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "商品足迹-编辑",
+					"pathName": "pages/footprint-list/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "会员资料-无",
+					"pathName": "pages/member-not/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "会员资料-生日",
+					"pathName": "pages/member-birthday/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 36,
+					"name": "会员资料-地区",
+					"pathName": "pages/member-address/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "会员资料-编辑",
+					"pathName": "pages/member-modification/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "收货地址-无",
+					"pathName": "pages/delivery-not/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "收货地址-添加",
+					"pathName": "pages/add-address/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 40,
+					"name": "收货地址-地区",
+					"pathName": "pages/address-region/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "收货地址-填写",
+					"pathName": "pages/address-fill/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "收货地址-有",
+					"pathName": "pages/address-have/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "评价-未",
+					"pathName": "pages/no-evaluate/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 44,
+					"name": "评价-已",
+					"pathName": "pages/have-evaluation/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "优惠券-无",
+					"pathName": "pages/discount-not/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "优惠券-未使用",
+					"pathName": "pages/discount-have/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 47,
+					"name": "优惠券-已使用",
+					"pathName": "pages/discount-haved/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "优惠券-已过期",
+					"pathName": "pages/discount-past/index",
 					"query": "",
 					"scene": null
 				}

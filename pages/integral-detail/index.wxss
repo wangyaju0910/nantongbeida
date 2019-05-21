@@ -1,0 +1,253 @@
+swiper{
+  width: 100%;
+  height: 650rpx;
+}
+swiper image{
+  width: 100%;
+  height: 100%;
+}
+.special-button {
+  position: fixed;
+  top: 30rpx;
+  right: 25rpx;
+}
+.special-button .customization {
+  width: 86rpx;
+  height: 86rpx;
+}
+.special-button .customization:nth-child(1) {
+  margin-bottom: 20rpx;
+}
+
+.customization image {
+  width: 100%;
+  height: 100%;
+}
+.integral{
+  display: flex;
+  font-size: 25rpx;
+  color:rgb(255, 85, 85);
+  margin-top: 30rpx;
+  padding: 0 0 0 20rpx;
+}
+
+.integral-price{
+  flex: 6;
+  display: flex;
+}
+.integral-price view:nth-child(1){
+  font-size: 35rpx;
+}
+.integral-price view:nth-child(2){
+  margin-top: 10rpx;
+}
+.integral .integral-fenxiang{
+  /* flex: 1; */
+  width: 85rpx;
+  height: 35rpx;
+}
+.integral-fenxiang image{
+  width: 100%;
+  height: 100%;
+}
+.content{
+  font-size: 25rpx;
+  padding: 0 20rpx;
+  margin-top: 20rpx;
+}
+.expressage{
+  display: flex;
+  font-size: 20rpx;
+  color:#ccc;
+  padding: 0 20rpx;
+  margin-top: 15rpx;
+}
+.expressage view:nth-child(1){
+  flex: 6;
+}
+.safeguard{
+  display: flex;
+  margin-top: 30rpx;
+}
+.safeguard view{
+  flex: 2;
+}
+.safeguard .safeguard-pic{
+  width: 134rpx;
+  height: 30rpx;
+  margin-left: 35rpx;
+}
+.safeguard-pic image{
+  width: 100%;
+  height: 100%;
+}
+.get-coupon{
+  display: flex;
+  font-size: 20rpx;
+  padding: 0 15rpx 30rpx 30rpx;
+  /* margin: 40rpx 10rpx; */
+  margin-top: 40rpx;
+}
+.get-coupon .more{
+  width: 22rpx;
+  height: 39rpx;
+  margin-right: 20rpx;
+}
+.more image{
+  width: 100%;
+  height: 100%;
+}
+.get-coupon>view:nth-child(1){
+  /* flex: 1; */
+  margin-right: 20rpx;
+  font-size: 25rpx;
+}
+.get-coupon .coupon-category{
+  flex: 5;
+  display: flex;
+}
+.coupon-category view{
+  border: 1px solid rgb(255, 85, 85);
+  margin-right: 20rpx;
+  border-radius: 10rpx;
+  background-color: rgb(255, 246, 246);
+  color:rgb(255, 85, 85);
+  padding: 0 10rpx;
+}
+.got-coupon{
+  display: flex;
+  font-size: 25rpx;
+  padding: 0 15rpx 30rpx 30rpx;
+}
+.got-coupon view:nth-child(1){
+  flex: 4;
+}
+.got-coupon .more-tow{
+  width: 22rpx;
+  height: 39rpx;
+  margin-right: 20rpx;
+}
+.more-tow image{
+  width: 100%;
+  height: 100%;
+}
+.dianpu-message{
+  display: flex;
+  font-size: 25rpx;
+  padding: 0 30rpx;
+  margin-bottom: 25rpx;
+}
+.dianpu-message .dianpu-pic{
+  width: 46rpx;
+  height: 38rpx;
+  margin-right: 20rpx;
+}
+.dianpu-message>view:nth-child(2){
+  flex: 1;
+}
+.dianpu-pic image{
+  width: 100%;
+  height: 100%;
+}
+.dianpu-message .more-tow{
+  width: 22rpx;
+  height: 39rpx;
+  /* margin-right: 20rpx; */
+}
+.dianpu-message image{
+  width: 100%;
+  height: 100%;
+}
+.specification{
+  font-size: 25rpx;
+  padding: 25rpx 0;
+  background-color: #f5f5f5;
+}
+.specification-content{
+  display: flex;
+  background-color: #fff;
+  padding:25rpx 30rpx;
+}
+.specification-content>view:nth-child(1){
+  color:#ccc;
+  margin-right: 30rpx;
+}
+.specification-content>view:nth-child(2){
+  flex: 1;
+}
+.specification .more-tow{
+  width: 22rpx;
+  height: 39rpx;
+  /* margin-right: 20rpx; */
+}
+.specification image{
+  width: 100%;
+  height: 100%;
+}
+.image-text{
+  width: 100%;
+  /* height: 100%;   */
+}
+.image-text .detail-img image{
+  width: 100%;
+  height: 3917rpx;
+}
+.image-text .shop-detail{
+  display: flex;
+  font-size: 25rpx;
+  border-bottom: 1px solid #f5f5f5;
+}
+.shop-detail>view{
+  flex: 1;
+  text-align: center;
+  padding: 30rpx 0;
+}
+.shop-detail>view:nth-child(1){
+  border-bottom: 2px solid rgb(255, 85, 85);
+  color: rgb(255, 85, 85);
+}
+.tabBar{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-size: 30rpx;
+  height: 100rpx;
+  background-color: #fff;
+}
+.tabBar .tabBar-list{
+  width: 50%;
+  display: flex;
+}
+.tabBar .tabBar-nav .nav-img{
+  width: 58rpx;
+  height: 48rpx;
+}
+.tabBar .tabBar-nav{
+  color:#999;
+  flex: 1;
+  margin-top: 12rpx;
+  margin-left: 25rpx;
+}
+.nav-img image{
+  width: 100%;
+  height: 100%;
+}
+.tabBar-button{
+  display: flex;
+  width: 50%;
+}
+.tabBar-button view{
+  width: 50%;
+  text-align: center;
+  line-height: 100rpx;
+  color:#fff;
+  background-color: rgb(254, 148, 2);
+}
+.tabBar-button view:nth-child(2){
+  background-color: rgb(255, 85, 85);
+}
+Page{
+  padding-bottom: 100rpx;
+}

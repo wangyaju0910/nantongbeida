@@ -1,0 +1,61 @@
+<view class='my-integral'>
+  <view class='integral-img'>
+    <image src='../../images/jifen@2x.png'></image>
+  </view>
+  <view class='integral-content'>
+    <view class='integral'>积分</view>
+    <view class='integral-num'>42</view>
+  </view>
+</view>
+<view class='integral-list'>
+  <view class='integral-shop'>
+    <view class='shop-left'>
+      <view class='shop-img'>
+        <image src='../../images/duihuanshangpin@2x.png'></image>
+      </view>
+      <view>兑换商品</view>
+    </view>
+    <view class='shop-right'>
+      <image src='../../images/gengduo@2x.png'></image>
+    </view>
+  </view>
+  <view class='integral-shop'>
+    <view class='shop-left'>
+      <view class='shop-img'>
+        <image src='../../images/duihaunshangpindingdan@2x.png'></image>
+      </view>
+      <view>兑换商品订单</view>
+    </view>
+    <view class='shop-right'>
+      <image src='../../images/gengduo@2x.png'></image>
+    </view>
+  </view>
+</view>
+<view class='view'></view>
+<view class='integral-particulars'>
+  <view class='particulars-title'>
+    <view class='title'>积分明细</view>
+    <view class='xian'></view>
+  </view>
+  <view class='particulars-content'>
+    <view class='content-title'>购买商品</view>
+    <view class='content-timer'>
+      <view>2019-01-01 12:00</view>
+      <view class='num'>+42</view>
+    </view>
+  </view>
+  <view class='particulars-content'>
+    <view class='content-title'>购买商品</view>
+    <view class='content-timer'>
+      <view>2019-01-01 12:00</view>
+      <view class='fu-num'>-100</view>
+    </view>
+  </view>
+  <view class='particulars-content'>
+    <view class='content-title'>购买商品</view>
+    <view class='content-timer'>
+      <view>2019-01-01 12:00</view>
+      <view class='num'>+42</view>
+    </view>
+  </view>
+</view>

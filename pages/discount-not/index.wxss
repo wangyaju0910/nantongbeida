@@ -1,0 +1,12 @@
+.my-attention{
+ width:523rpx;
+height:378rpx;
+margin: 300rpx auto;
+}
+.my-attention image{
+  width: 100%;
+  height: 100%;
+}
+Page{
+  background-color: rgb(247, 247, 247);
+}

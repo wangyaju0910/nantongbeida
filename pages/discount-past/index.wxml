@@ -1,0 +1,27 @@
+<view class='discount-nav'>
+  <view>未使用（1）</view>
+  <view>已使用（1）</view>
+  <view>已过期（1）</view>
+</view>
+<view class='discount-content'>
+  <view class='content-left'>
+    <view class='left-img'>
+      <image src='../../images/yiguoqi.png'></image>
+    </view>
+    <view class='left-content'>
+      <view class='content-title'>
+        <view>15元无门槛红包（限领限领限领限领限领限领限领限领）</view>
+        <view>优惠券</view>
+      </view>
+      <view class='content-timer'>
+        <view>生效时间：2019-01-01 12:00:00</view>
+        <view>失效时间：2019-02-01 12:00:00</view>
+      </view>
+      <view class='rule'>本券仅在有效期内使用</view>
+    </view>
+  </view>
+  <view class='content-right'>
+    <view>￥15.00</view>
+    <view>满0.00元使用</view>
+  </view>
+</view>

@@ -1,0 +1,31 @@
+.my-attention {
+  width: 495rpx;
+  height: 467rpx;
+  margin: 252rpx auto 0;
+}
+.take-delivery{
+  font-size: 25rpx;
+  color:#ccc;
+  text-align: center;
+  margin-top: 25rpx;
+}
+.my-attention image {
+  width: 100%;
+  height: 100%;
+}
+
+Page {
+  background-color: rgb(247, 247, 247);
+}
+.add-delivery{
+  font-size: 30rpx;
+  color: #fff;
+  width: 100%;
+  height: 80rpx;
+  background-color: rgb(588, 84, 84);
+  text-align: center;
+  line-height: 80rpx;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
