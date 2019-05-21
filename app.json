@@ -50,7 +50,11 @@
     "pages/discount-not/index",
     "pages/discount-have/index",
     "pages/discount-haved/index",
-    "pages/discount-past/index"
+    "pages/discount-past/index",
+    "pages/articles-law/index",
+    "pages/fake-clause/index",
+    "pages/user-agreement/index",
+    "pages/privacy-policy/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

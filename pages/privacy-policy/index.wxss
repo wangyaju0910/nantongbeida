@@ -1,0 +1,20 @@
+Page{
+  background-color: rgb(247, 247, 247);
+}
+.fake-clause{
+  font-size: 30rpx;
+  padding:  0 20rpx;
+}
+.fake-clause .h1{
+  font-size: 40rpx;
+  width: 70%;
+  text-align: center;
+  margin: 30rpx auto;
+}
+.fake-clause .h2{
+  text-align: center;
+}
+.fake-clause .h3{
+  text-align: center;
+  margin: 30rpx 0;
+}

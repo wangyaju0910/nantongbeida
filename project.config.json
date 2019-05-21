@@ -40,7 +40,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 47,
+			"current": 37,
 			"list": [
 				{
 					"id": 0,
@@ -302,7 +302,7 @@
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 37,
 					"name": "会员资料-编辑",
 					"pathName": "pages/member-modification/index",
 					"query": "",
@@ -382,6 +382,34 @@
 					"id": -1,
 					"name": "优惠券-已过期",
 					"pathName": "pages/discount-past/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "法律条款",
+					"pathName": "pages/articles-law/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "假货政策条款",
+					"pathName": "pages/fake-clause/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "假货政策条款-用户须知",
+					"pathName": "pages/user-agreement/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "假货政策条款-隐私政策",
+					"pathName": "pages/privacy-policy/index",
 					"query": "",
 					"scene": null
 				}
