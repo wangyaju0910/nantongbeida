@@ -5,12 +5,10 @@
     </swiper-item>
   </block>
 </swiper>
-<swiper  class='swiper'>
-  <block wx:for="{{imgUrls}}">
-    <swiper-item>
-      <image src="{{item}}" class="slide-image" width="355" height="150" />
-    </swiper-item>
-  </block>
+<view class='region' bindtap='businessDistrict'>
+  <view class='region-img'>
+    <image src='../../images/banner.png'></image>
+  </view>
   <view class='region-content'>
     <view class='region-title'>
       <view class='title'>商圈A</view>
@@ -18,7 +16,7 @@
     </view>
     <view class='region-go'> > </view>
   </view>
-</swiper>
+</view>
 <view class='recomment-list'>
   <view class='recomment-content'>
     <view class='recomment-img'>
@@ -54,7 +52,7 @@
     </view>
   </view>
 </view>
-<swiper  class='swiper'>
+<swiper class='swiper'>
   <block wx:for="{{imgUrls}}">
     <swiper-item>
       <image src="{{item}}" class="slide-image" width="355" height="150" />

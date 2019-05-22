@@ -8,8 +8,22 @@ Page({
     indicatorDots: false,
     autoplay: false,
     interval: 5000,
-    duration: 1000
+    duration: 1000,
+    flag: true,
   },
+  show: function() {
+    this.setData({
+      flag: false
+    })
+  },
+  //消失
+  hide: function() {
+    this.setData({
+      flag: true
+    })
+  },
+
+
   changeIndicatorDots(e) {
     this.setData({
       indicatorDots: !this.data.indicatorDots
@@ -29,5 +43,5 @@ Page({
     this.setData({
       duration: e.detail.value
     })
-  }
+  },
 })

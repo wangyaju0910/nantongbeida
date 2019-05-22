@@ -40,7 +40,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 37,
+			"current": 10,
 			"list": [
 				{
 					"id": 0,
@@ -113,7 +113,7 @@
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 10,
 					"name": "无订单",
 					"pathName": "pages/no-order/index",
 					"query": "",
@@ -148,7 +148,7 @@
 					"scene": null
 				},
 				{
-					"id": 16,
+					"id": 15,
 					"name": "售后",
 					"pathName": "pages/after-page/index",
 					"query": "",
@@ -169,7 +169,7 @@
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 18,
 					"name": "申请入驻-已勾选",
 					"pathName": "pages/apply-selected/index",
 					"query": "",
@@ -211,7 +211,7 @@
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 24,
 					"name": "我的积分",
 					"pathName": "pages/integral-page/index",
 					"query": "",
@@ -344,7 +344,7 @@
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 43,
 					"name": "评价-未",
 					"pathName": "pages/no-evaluate/index",
 					"query": "",
@@ -379,7 +379,7 @@
 					"scene": null
 				},
 				{
-					"id": -1,
+					"id": 48,
 					"name": "优惠券-已过期",
 					"pathName": "pages/discount-past/index",
 					"query": "",
@@ -410,6 +410,13 @@
 					"id": -1,
 					"name": "假货政策条款-隐私政策",
 					"pathName": "pages/privacy-policy/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/my-page/index",
 					"query": "",
 					"scene": null
 				}

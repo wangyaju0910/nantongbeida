@@ -11,5 +11,20 @@ Page({
         return util.formatTime(new Date(log))
       })
     })
+  },
+  attentionPage:function(){
+    wx.navigateTo({
+      url: '../attention-page/index',
+    });
+  },
+  regionPage:function(){
+    wx.navigateTo({
+      url: '../region-page/index',
+    })
+  },
+  nowPlay:function(){
+    wx.navigateTo({
+      url: '../now-play/index',
+    })
   }
 })

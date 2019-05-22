@@ -1,0 +1,174 @@
+<view class='user-message'>
+  <view class='user'>
+    <view class='user-pic'>
+      <image src='../../images/touxiang.png'></image>
+    </view>
+    <view class='user-name'>用户名称</view>
+    <view class='common-member'>普通会员(10000)</view>
+  </view>
+  <view class='integral'>
+    <view class='integral-num'>积分：0.00</view>
+    <view class='integral-conversion' bindtap='creditExchange'>积分兑换</view>
+  </view>
+</view>
+<view class='my-order'>
+  <view class='order-title'>
+    <view class='title-img'>
+      <image src='../../images/duihaunshangpindingdan@2x.png'></image>
+    </view>
+    <view class='title-content'>我的订单</view>
+  </view>
+  <view class='order-nav'>
+    <view class='nav'bindtap="obligationPage">
+      <view class='nav-img'>
+        <image src='../../images/fukaun@2x.png'></image>
+      </view>
+      <view>待付款</view>
+    </view>
+    <view class='nav'bindtap="deliverPage">
+      <view class='nav-img'>
+        <image src='../../images/fahuo@2x.png'></image>
+      </view>
+      <view>待发货</view>
+    </view>
+    <view class='nav' bindtap='takePage'>
+      <view class='nav-img'>
+        <image src='../../images/shouhuo@2x.png'></image>
+      </view>
+      <view>待收货</view>
+    </view>
+    <view class='nav' bindtap='afterPage'>
+      <view class='nav-img'>
+        <image src='../../images/shouhou@2x.png'></image>
+      </view>
+      <view>售后</view>
+    </view>
+  </view>
+</view>
+<view class='skip-page'>
+  <view class='skip-list' bindtap='applyEnter'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/ruzhu@2x.png'></image>
+        </view>
+        <view class='list-content'>申请入驻</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='skip-list' bindtap='integralPage'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/jifen@2x.png'></image>
+        </view>
+        <view class='list-content'>我的积分</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='skip-list' bindtap='attentionStore'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/guanzhu@2x.png'></image>
+        </view>
+        <view class='list-content'>我的关注</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='skip-list' bindtap='footprintPage'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/zuji@2x.png'></image>
+        </view>
+        <view class='list-content'>我的足迹</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='skip-list' bindtap='memberModification'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/huiyuanziliao@2x.png'></image>
+        </view>
+        <view class='list-content'>会员资料</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='skip-list' bindtap='addressHave'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/shouhuodizhi@2x.png'></image>
+        </view>
+        <view class='list-content'>收货地址</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='skip-list' bindtap='noEvaluate'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/wodepingjia@2x.png'></image>
+        </view>
+        <view class='list-content'>我的评价</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='skip-list' bindtap='discountHave'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/youhuiquan2@2x.png'></image>
+        </view>
+        <view class='list-content'>优惠券</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+  <view class='skip-list' bindtap='articlesLaw'>
+    <view class='list'>
+      <view>
+        <view class='list-img'>
+          <image src='../../images/falvtiaokuan@2x.png'></image>
+        </view>
+        <view class='list-content'>法律条款</view>
+      </view>
+      <view class='gengduo-img'>
+        <image src='../../images/gengduo@2x.png'></image>
+      </view>
+    </view>
+  </view>
+</view>
+<view class='special-button'>
+  <view class='customization'>
+    <image src='../../images/wodekefu.png'></image>
+  </view>
+  <view class='customization'>
+    <image src='../../images/zhuanshudingzhi.png'></image>
+  </view>
+</view>

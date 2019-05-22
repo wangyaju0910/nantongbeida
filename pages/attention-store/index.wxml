@@ -6,6 +6,9 @@
       </view>
       <view>店铺名称</view>
     </view>
+    <view class='timer-img'>
+      <image src='../../images/gengduo@2x.png'></image>
+    </view>
   </view>
   <view class='obligation-content'>
     <view class='content-img'>
@@ -37,6 +40,9 @@
         <image src='../../images/dianpu2@2x.png'></image>
       </view>
       <view>店铺名称</view>
+    </view>
+    <view class='timer-img'>
+      <image src='../../images/gengduo@2x.png'></image>
     </view>
   </view>
   <view class='obligation-content'>

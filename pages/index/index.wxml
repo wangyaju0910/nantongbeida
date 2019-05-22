@@ -23,7 +23,7 @@
   <view class='nav-image'>
     <image src='../../images/aaa.jpg'></image>
   </view>
-  <view class='nav-image'>
+  <view class='nav-image' bindtap='indexSafeguard'>
     <image src='../../images/bbb.jpg'></image>
   </view>
 </view>
@@ -38,52 +38,52 @@
     <view class='list-img'>
       <image src='../../images/图标10@2x.png'></image>
     </view>
-    <view class='list-name'>母婴用品</view>
+    <view class='list-name'>个人护理</view>
   </view>
   <view class='nav-list'>
     <view class='list-img'>
       <image src='../../images/图标11@2x.png'></image>
     </view>
-    <view class='list-name'>母婴用品</view>
+    <view class='list-name'>香水手表</view>
   </view>
   <view class='nav-list'>
     <view class='list-img'>
       <image src='../../images/图标12@2x.png'></image>
     </view>
-    <view class='list-name'>母婴用品</view>
+    <view class='list-name'>服装箱包</view>
   </view>
   <view class='nav-list'>
     <view class='list-img'>
       <image src='../../images/图标13@2x.png'></image>
     </view>
-    <view class='list-name'>母婴用品</view>
+    <view class='list-name'>彩妆护肤</view>
   </view>
   <view class='nav-list'>
     <view class='list-img'>
       <image src='../../images/图标14@2x.png'></image>
     </view>
-    <view class='list-name'>母婴用品</view>
+    <view class='list-name'>家庭健康</view>
   </view>
   <view class='nav-list'>
     <view class='list-img'>
       <image src='../../images/图标15@2x.png'></image>
     </view>
-    <view class='list-name'>母婴用品</view>
+    <view class='list-name'>食品保健</view>
   </view>
   <view class='nav-list'>
     <view class='list-img'>
       <image src='../../images/图标16@2x.png'></image>
     </view>
-    <view class='list-name'>母婴用品</view>
+    <view class='list-name'>所有分类</view>
   </view>
 </view>
 <view class='video-title'>
   <view>视频天下店</view>
-  <navigator>查看更多 ></navigator>
+  <view class='more' bindtap='videoRecommend'>查看更多 ></view>
 </view>
 <view class='video-list'>
-  <view class='video-content'>
-    <view class='video-img'>
+  <view class='video-content' bindtap='storeVideo'>
+    <view class='video-img'> 
       <view class='fenxiang'>
         <image src='../../images/fenxiang.png'></image>
       </view>
@@ -233,28 +233,28 @@
 </view>
 <view class='recommend-list'>
   <view class='recommend-img'>
-    <image src='../../images/1@2x.png'></image>
+    <image src='../../images/logo.png'></image>
   </view>
   <view class='recommend-img'>
-    <image src='../../images/1@2x.png'></image>
+    <image src='../../images/logo.png'></image>
   </view>
   <view class='recommend-img'>
-    <image src='../../images/1@2x.png'></image>
+    <image src='../../images/logo.png'></image>
   </view>
   <view class='recommend-img'>
-    <image src='../../images/1@2x.png'></image>
+    <image src='../../images/logo.png'></image>
   </view>
   <view class='recommend-img'>
-    <image src='../../images/1@2x.png'></image>
+    <image src='../../images/logo.png'></image>
   </view>
   <view class='recommend-img'>
-    <image src='../../images/1@2x.png'></image>
+    <image src='../../images/logo.png'></image>
   </view>
   <view class='recommend-img'>
-    <image src='../../images/1@2x.png'></image>
+    <image src='../../images/logo.png'></image>
   </view>
   <view class='recommend-img'>
-    <image src='../../images/1@2x.png'></image>
+    <image src='../../images/logo.png'></image>
   </view>
 </view>
 <view class='segmentation'>
@@ -424,33 +424,65 @@
   <view class='customization'>
     <image src='../../images/wodekefu.png'></image>
   </view>
+  <view class='customization' bindtap='exclusiveCustomization'>
+    <image src='../../images/zhuanshudingzhi.png'></image>
+  </view>
+</view>
+<view class='index-window' show="{{flag}}" bindtap="hide">
+  <view class='window'>
+    <view class='tuoyuan-img'>
+      <view class='tuoyuan-title'>
+        <view>标题标题</view>
+        <view>简介简介简介简介简介简介简介简介简介简介简介简介简介</view>
+      </view>
+      <image src='../../images/tuoyuan.png'></image>
+    </view>
+    <view class='guankan-img'>
+      <image src='../../images/guankan.png'></image>
+    </view>
+    <view class='lijichakan-img'>
+      <image src='../../images/lijichakan@2x.png'></image>
+    </view>
+  </view>
+  <view class='quxiao-img' bindtap='hide'>
+    <image src='../../images/quxiao@2x.png'></image>
+  </view>
+</view>
+<view class='special-button'>
+  <view class='customization'>
+    <image src='../../images/wodekefu.png'></image>
+  </view>
   <view class='customization'>
     <image src='../../images/zhuanshudingzhi.png'></image>
   </view>
 </view>
-<view class='tabBar'>
-  <view class='tabBar-list'>
-    <view class='tabBar-img'>
-      <image src='../../images/hongshouye.jpg'></image>
+<!-- <view class='safeguard'>
+  <view class='after-safeguard'>
+    <view class='safeguard-title'>售后保障</view>
+    <view class='safeguard-content'>
+      <view class='content-img'>
+        <image src='../../images/xianggangzhiyou.png'></image>
+      </view>
+      <view class='content-details'>
+        南通北达平台所有商品由香港本地注册的供应商供应，接受严格的香港本地法律监控，并由中国邮政速递香港物流公司供应链承接，经由海关监控，保证100%正品
+      </view>
     </view>
-    <view class='tabBar-title'>首页</view>
-  </view>
-  <view class='tabBar-list'>
-    <view class='tabBar-img'>
-      <image src='../../images/huifenlei.jpg'></image>
+    <view class='safeguard-content'>
+      <view class='content-img'>
+        <image src='../../images/zhengpin.png'></image>
+      </view>
+      <view class='content-details'>
+        南通北达平台所有商品由香港本地注册的供应商供应，经由海关监控，保证100%正品
+      </view>
     </view>
-    <view class='tabBar-title'>分类</view>
-  </view>
-  <view class='tabBar-list'>
-    <view class='tabBar-img'>
-      <image src='../../images/huigouwuche.jpg'></image>
+    <view class='safeguard-content'>
+      <view class='content-img'>
+        <image src='../../images/quanchangbaoshui.png'></image>
+      </view>
+      <view class='content-details'>
+        在南通北达平台购买任意商品。由南通北达平台承担税费
+      </view>
     </view>
-    <view class='tabBar-title'>购物车</view>
+    <view class='my-button'>我知道了</view>
   </view>
-  <view class='tabBar-list'>
-    <view class='tabBar-img'>
-      <image src='../../images/huiwode.jpg'></image>
-    </view>
-    <view class='tabBar-title'>我的</view>
-  </view>
-</view>
+</view> -->

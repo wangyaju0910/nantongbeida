@@ -28,7 +28,7 @@
   </view>
   <view class='consent'>
     <view class='consent-select'>
-      <view class='select-img'>
+      <view class='select-img' bindtap='applySelected'>
         <image src='../../images/weixuanzhong.png'></image>
       </view>
       <view>申请入驻需同意《申请入驻合同协议》</view>

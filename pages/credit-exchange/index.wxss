@@ -45,6 +45,7 @@
   background-color: #fff;
   margin-bottom: 20rpx;
   border: 1px solid #999;
+  border-radius: 10rpx;
 }
 
 .recomment-list .recomment-content:nth-child(2n) {

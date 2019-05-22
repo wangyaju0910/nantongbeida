@@ -1,7 +1,7 @@
 <view class='business-district'>
   <view class='user-message'>
     <view class='user-img'>
-      <image src='../../images/头像@2x.png'></image>
+      <image src='../../images/touxiang100.png'></image>
     </view>
     <view class='user-title'>店铺名店铺名</view>
   </view>
@@ -10,7 +10,7 @@
     <view class='localtion-img'>
       <image src='../../images/dizhi.png'></image>
     </view>
-    <view class='localtion-address'>商圈位置
+    <view class='localtion-address'>店铺位置
       <view class='timer'>xxxxxxxxxxxxxxxxxxxx</view>
     </view>
   </view>
@@ -88,7 +88,7 @@
     </view>
     <view>视频</view>
   </view>
-  <view class='tabBar-list'>
+  <view class='tabBar-list' bindtap='storeCommodity'>
     <view class='tabBar-img'>
       <image src='../../images/huishop.png'></image>
     </view>

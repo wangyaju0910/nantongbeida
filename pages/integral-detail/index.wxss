@@ -212,7 +212,7 @@ swiper image{
   bottom: 0;
   left: 0;
   width: 100%;
-  font-size: 30rpx;
+  font-size: 25rpx;
   height: 100rpx;
   background-color: #fff;
 }
@@ -221,8 +221,9 @@ swiper image{
   display: flex;
 }
 .tabBar .tabBar-nav .nav-img{
-  width: 58rpx;
-  height: 48rpx;
+  width: 50rpx;
+  height: 42rpx;
+  margin-bottom: 10rpx;
 }
 .tabBar .tabBar-nav{
   color:#999;

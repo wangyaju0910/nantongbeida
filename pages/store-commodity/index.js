@@ -11,5 +11,10 @@ Page({
         return util.formatTime(new Date(log))
       })
     })
+  },
+  storeVideo:function(){
+    wx.redirectTo({
+      url: '../store-video/index',
+    })
   }
 })

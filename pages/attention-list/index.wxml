@@ -14,13 +14,15 @@
     <view class='xuanzhong-img'>
       <image src='../../images/xuanzhong.png'></image>
     </view>
-    <view class='content-img'>
-      <image src='../../images/naifen.png'></image>
-    </view>
-    <view class='content-title'>
-      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
-      <view class='content-price'>
-        <view>HK$ 1000.00</view>
+    <view class='content'>
+      <view class='content-img'>
+        <image src='../../images/naifen.png'></image>
+      </view>
+      <view class='content-title'>
+        <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+        <view class='content-price'>
+          <view>HK$ 1000.00</view>
+        </view>
       </view>
     </view>
   </view>
@@ -28,13 +30,15 @@
     <view class='xuanzhong-img'>
       <image src='../../images/xuanzhong.png'></image>
     </view>
-    <view class='content-img'>
-      <image src='../../images/naifen.png'></image>
-    </view>
-    <view class='content-title'>
-      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
-      <view class='content-price'>
-        <view>HK$ 1000.00</view>
+    <view class='content'>
+      <view class='content-img'>
+        <image src='../../images/naifen.png'></image>
+      </view>
+      <view class='content-title'>
+        <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+        <view class='content-price'>
+          <view>HK$ 1000.00</view>
+        </view>
       </view>
     </view>
   </view>
@@ -55,13 +59,15 @@
     <view class='xuanzhong-img'>
       <image src='../../images/xuanzhong.png'></image>
     </view>
-    <view class='content-img'>
-      <image src='../../images/naifen.png'></image>
-    </view>
-    <view class='content-title'>
-      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
-      <view class='content-price'>
-        <view>HK$ 1000.00</view>
+    <view class='content'>
+      <view class='content-img'>
+        <image src='../../images/naifen.png'></image>
+      </view>
+      <view class='content-title'>
+        <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+        <view class='content-price'>
+          <view>HK$ 1000.00</view>
+        </view>
       </view>
     </view>
   </view>
@@ -69,13 +75,15 @@
     <view class='xuanzhong-img'>
       <image src='../../images/xuanzhong.png'></image>
     </view>
-    <view class='content-img'>
-      <image src='../../images/naifen.png'></image>
-    </view>
-    <view class='content-title'>
-      <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
-      <view class='content-price'>
-        <view>HK$ 1000.00</view>
+    <view class='content'>
+      <view class='content-img'>
+        <image src='../../images/naifen.png'></image>
+      </view>
+      <view class='content-title'>
+        <view>名称名称名称名称名称名称名称名称名称名称名称名称名称</view>
+        <view class='content-price'>
+          <view>HK$ 1000.00</view>
+        </view>
       </view>
     </view>
   </view>

@@ -56,4 +56,4 @@
     </view>
   </view>
 </view>
-<view class='add-address'>+添加收货地址</view>
+<view class='add-address' bindtap='addAddress'>+添加收货地址</view>

@@ -11,5 +11,10 @@ Page({
         return util.formatTime(new Date(log))
       })
     })
+  },
+  storeCommodity:function(){
+    wx.redirectTo({
+      url: '../store-commodity/index',
+    })
   }
 })

@@ -2,7 +2,7 @@
   <view class='no'>
     <view>未评价</view>
   </view>
-  <view class='no'>
+  <view class='no' bindtap='haveEvaluation'>
     <view>已评价</view>
   </view>
 </view>

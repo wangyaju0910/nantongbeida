@@ -1,5 +1,5 @@
 <view class='order-list'>
-  <view class='no'>
+  <view class='no' bindtap='noEvaluate'>
     <view>未评价</view>
   </view>
   <view class='no'>

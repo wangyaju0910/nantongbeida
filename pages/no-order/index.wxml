@@ -1,10 +1,10 @@
 <view class='order-list'>
   <view>全部</view>
-  <view>待付</view>
-  <view>待发</view>
-  <view>待收</view>
-  <view>已完</view>
-  <view>售后</view>
+  <view bindtap='obligationPage'>待付</view>
+  <view bindtap='deliverPage'>待发</view>
+  <view bindtap='takePage'>待收</view>
+  <view bindtap='receivedPage'>已完</view>
+  <view bindtap='afterPage'>售后</view>
 </view>
 <view class='order-content'>
   <view class='content-img'>

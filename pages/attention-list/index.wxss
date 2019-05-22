@@ -1,5 +1,6 @@
 Page {
   background-color: #f5f5f5;
+  padding-bottom: 84rpx;
 }
 
 .obligation-list {
@@ -10,7 +11,7 @@ Page {
 
 .obligation-content {
   display: flex;
-  padding: 20rpx;
+  padding: 0 20rpx 0 20rpx;
 }
 
 .obligation-content .content-img {
@@ -25,12 +26,22 @@ Page {
 
 .obligation-content .content-title {
   padding-left: 20rpx;
+  display: flex;
+  flex-direction: column;
 }
-
+.content-title>view:nth-child(1){
+  flex: 1;
+}
+.content{
+  display: flex;
+  border-bottom: 1px solid #f5f5f5;
+  margin: 10rpx 0;
+  padding-bottom: 20rpx;
+}
 .content-price {
   display: flex;
   color:rgb(255, 85, 85);
-  margin-top: 30rpx;
+  margin-top: 50rpx;
 }
 
 
@@ -46,6 +57,8 @@ Page {
 }
 .obligation-title{
   padding: 20rpx;
+  border-bottom: 1px solid #f5f5f5;
+  margin-bottom: 20rpx
 } 
 .quanxuan{
   width: 30rpx;

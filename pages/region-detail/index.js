@@ -29,5 +29,10 @@ Page({
     this.setData({
       duration: e.detail.value
     })
+  },
+  businessDistrict:function(){
+    wx.navigateTo({
+      url: '../business-district/index',
+    })
   }
 })

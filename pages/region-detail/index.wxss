@@ -24,7 +24,16 @@ swiper-item image {
 .swiper image {
   border-radius: 20rpx;
 }
-
+.region-img{
+  width: 95%;
+  height: 200rpx;
+  margin: 20rpx auto;
+}
+.region-img image{
+  width: 100%;
+  height: 100%;
+  border-radius: 10rpx;
+}
 .region-content {
   width: 90%;
   position: absolute;

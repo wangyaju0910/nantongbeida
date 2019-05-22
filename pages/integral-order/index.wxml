@@ -9,7 +9,7 @@
     <view>订单号：123456798101010101010</view>
     <view>待发货</view>
   </view>
-  <view class='obligation-content'>
+  <view class='obligation-content' bindtap='integralDetail'>
     <view class='content-img'>
       <image src='../../images/naifen.png'></image>
     </view>

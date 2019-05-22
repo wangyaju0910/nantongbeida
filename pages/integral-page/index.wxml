@@ -1,6 +1,6 @@
 <view class='my-integral'>
   <view class='integral-img'>
-    <image src='../../images/jifen@2x.png'></image>
+    <image src='../../images/wodejifen.png'></image>
   </view>
   <view class='integral-content'>
     <view class='integral'>积分</view>
@@ -8,7 +8,7 @@
   </view>
 </view>
 <view class='integral-list'>
-  <view class='integral-shop'>
+  <view class='integral-shop' bindtap='creditExchange'>
     <view class='shop-left'>
       <view class='shop-img'>
         <image src='../../images/duihuanshangpin@2x.png'></image>
@@ -19,7 +19,7 @@
       <image src='../../images/gengduo@2x.png'></image>
     </view>
   </view>
-  <view class='integral-shop'>
+  <view class='integral-shop' bindtap='integralOrder'>
     <view class='shop-left'>
       <view class='shop-img'>
         <image src='../../images/duihaunshangpindingdan@2x.png'></image>

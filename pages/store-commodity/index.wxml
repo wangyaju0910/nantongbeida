@@ -8,11 +8,11 @@
 </view>
 <view class='header-nav'>
   <view>推荐</view>
-  <view>推荐</view>
-  <view>推荐</view>
-  <view>推荐</view>
-  <view>推荐</view>
-  <view>推荐</view>
+  <view>彩妆护肤</view>
+  <view>服饰箱包</view>
+  <view>个人护理</view>
+  <view>母婴用品</view>
+  <view>香水手表</view>
   <view>推荐</view>
 </view>
 <view class='recomment-list'>
@@ -120,7 +120,7 @@
   </view>
 </view>
 <view class='tabBar'>
-  <view class='tabBar-list'>
+  <view class='tabBar-list' bindtap='storeVideo'>
     <view class='tabBar-img'>
       <image src='../../images/huivideo.png'></image>
     </view>

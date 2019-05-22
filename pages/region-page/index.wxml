@@ -1,5 +1,5 @@
 <view class='region'>
-  <view class='region-list'>
+  <view class='region-list' bindtap='regionDetail'>
     <view class='region-img'>
       <image src='../../images/banner.png'></image>
       <view class='region-content'>
@@ -25,13 +25,13 @@
   </view>
 </view>
 <view class='tabBar'>
-  <view class='tabBar-list'>
+  <view class='tabBar-list' bindtap='videoRecommend'>
     <view class='tabBar-img'>
       <image src='../../images/huituijian.png'></image>
     </view>
     <view>推荐</view>
   </view>
-  <view class='tabBar-list'>
+  <view class='tabBar-list' bindtap='attentionPage'>
     <view class='tabBar-img'>
       <image src='../../images/huiguanzhu.png'></image>
     </view>
@@ -39,7 +39,6 @@
   </view>
   <view class='tabBar-list'>
     <view class='tabBar-img'>
-      <view class='yuandian'></view>
       <image src='../../images/hongdiqu.png'></image>
     </view>
     <view>地区</view>

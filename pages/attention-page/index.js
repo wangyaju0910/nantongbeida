@@ -11,5 +11,20 @@ Page({
         return util.formatTime(new Date(log))
       })
     })
+  },
+  videoRecommend:function(){
+    wx.redirectTo({
+      url: '../video-recommend/index',
+    })
+  },
+  regionPage: function () {
+    wx.redirectTo({
+      url: '../region-page/index',
+    })
+  },
+  nowPlay: function () {
+    wx.navigateTo({
+      url: '../now-play/index',
+    })
   }
 })

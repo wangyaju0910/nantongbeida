@@ -1,10 +1,10 @@
 <view class='order-list'>
-  <view>全部</view>
-  <view>待付</view>
-  <view>待发</view>
+  <view bindtap='noOrder'>全部</view>
+  <view bindtap='obligationPage'>待付</view>
+  <view bindtap='deliverPage'>待发</view>
   <view>待收</view>
-  <view>已完</view>
-  <view>售后</view>
+  <view bindtap='receivedPage'>已完</view>
+  <view bindtap='afterPage'>售后</view>
 </view>
 <view class='obligation-list clearfix'>
   <view class='obligation-title'>
@@ -22,7 +22,7 @@
         <view>HK$ 1000.00</view>
         <view>x1</view>
       </view>
-    </view>
+    </view> 
   </view>
   <view class='amount-price clearfix'>
     <view class='amount'>共一个商品 实付 

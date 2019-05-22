@@ -54,7 +54,10 @@
     "pages/articles-law/index",
     "pages/fake-clause/index",
     "pages/user-agreement/index",
-    "pages/privacy-policy/index"
+    "pages/privacy-policy/index",
+    "pages/my-page/index",
+    "pages/detail-page/index",
+    "pages/cart-page/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -62,5 +65,35 @@
     "navigationBarTitleText": "南通北达香港购物",
     "navigationBarTextStyle": "black"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "tabBar":{
+    "color":"#999",
+    "selectedColor":"#f00",
+    "list":[
+      {
+        "pagePath":"pages/index/index",
+        "iconPath":"images/huishouye@2x.png",
+        "selectedIconPath":"images/hongshouye.jpg",
+        "text":"首页"
+      },
+      {
+        "pagePath": "pages/detail-page/index",
+        "iconPath": "images/图标1@2x.jpg",
+        "selectedIconPath": "images/huishouye@2x.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/cart-page/index",
+        "iconPath": "images/gouwuche@2x.png",
+        "selectedIconPath": "images/gouwuche@2x.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/my-page/index",
+        "iconPath": "images/huiwode.jpg",
+        "selectedIconPath": "images/honhwode2@2x.png",
+        "text": "我的"
+      }
+    ]
+  }
 }

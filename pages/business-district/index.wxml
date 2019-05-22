@@ -4,7 +4,7 @@
 <view class='business-district'>
   <view class='user-message'>
     <view class='user-img'>
-      <image src='../../images/头像@2x.png'></image>
+      <image src='../../images/touxiang100.png'></image>
     </view>
     <view class='user-name'>商圈A</view>
     <view class='user-user-title'>店铺名店铺名</view>
@@ -33,7 +33,7 @@
   <view>推荐</view>
 </view>
 <view class='recomment-list'>
-  <view class='recomment-content'>
+  <view class='recomment-content' bindtap='nowPlay'>
     <view class='recomment-img'>
       <view class='fenxiang'>
         <image src='../../images/fenxiang.png'></image>

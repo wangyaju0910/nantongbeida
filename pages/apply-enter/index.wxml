@@ -38,6 +38,6 @@
     </view>
   </view>
 </view>
-<view class='upload-button'>
+<view class='upload-button' bindtap='submitSuccessfully'>
   <view>提交申请</view>
 </view>

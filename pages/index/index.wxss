@@ -139,12 +139,12 @@ swiper-item image {
   flex: 4;
 }
 
-.video-title navigator {
+.video-title .more {
   flex: 1;
   color: #cbcbcb;
 }
 
-.video-list {
+.video-list { 
   width: 500%;
 }
 
@@ -452,7 +452,7 @@ swiper-item image {
 
 .handpick-list .handpick-img {
   width: 100%;
-  height: 260rpx;
+  height: 200rpx;
   position: relative;
 }
 
@@ -565,37 +565,152 @@ swiper-item image {
   height: 100%;
 }
 
-.tabBar {
+.index-window {
   position: fixed;
-  bottom: 0;
-  left: 0;
+  top: 0rpx;
+  left: 0rpx;
   width: 100%;
-  font-size: 25rpx;
-  color: #ccc;
-  background-color: #fff;
-  display: flex;
-  padding: 10rpx 0 10rpx 0;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: ;
 }
 
-.tabBar .tabBar-list {
-  flex: 1;
+.window {
+  margin-top: 200rpx;
+  margin-left: 133rpx;
+  position: relative;
+}
+
+.index-window .tuoyuan-img {
+  width: 500rpx;
+  height: 574rpx;
+  /* position: relative; */
+}
+
+.tuoyuan-img image {
+  width: 100%;
+  height: 100%;
+}
+.tuoyuan-img .tuoyuan-title{
+  width: 60%;
+  color:#fff;
+  font-size: 30rpx;
   text-align: center;
+  position: absolute;
+  top: 20rpx;
+  left: 20rpx;
+  margin-left: 40rpx;
+}
+.tuoyuan-img .tuoyuan-title view:nth-child(2){
+  font-size: 25rpx;
+  margin-top: 20rpx;
+}
+.guankan-img {
+  width: 449rpx;
+  height: 325rpx;
+  position: absolute;
+  top: 60rpx;
+  left: 13rpx;
 }
 
-.tabBar-list .tabBar-img {
-  width: 40rpx;
-  height: 40rpx;
-  margin-left: 75rpx;
-}
-
-.tabBar-img image {
+.guankan-img image {
   width: 100%;
   height: 100%;
 }
 
-.tabBar-list:nth-child(1) .tabBar-title {
-  color: rgb(255, 85, 85);
+.lijichakan-img {
+  width: 240rpx;
+  height: 88rpx;
+  position: absolute;
+  bottom: 36rpx;
+  left: 124rpx;
 }
+
+.lijichakan-img image {
+  width: 100%;
+  height: 100%;
+}
+
+.quxiao-img {
+  width: 70rpx;
+  height: 70rpx;
+  margin: 40rpx auto;
+}
+
+.quxiao-img image {
+  width: 100%;
+  height: 100%;
+}
+.special-button {
+  position: fixed;
+  bottom: 238rpx;
+  right: 25rpx;
+}
+.special-button .customization {
+  width: 86rpx;
+  height: 86rpx;
+}
+.special-button .customization:nth-child(1) {
+  margin-bottom: 20rpx;
+}
+
+.customization image {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+.safeguard{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+.after-safeguard{
+  width: 100%;
+  font-size: 20rpx;
+  color:#ccc;
+  background-color: #fff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.safeguard-content{
+  margin-bottom: 50rpx;
+  padding: 0 20rpx;
+}
+.safeguard-content .content-img{
+  width: 148rpx;
+  height: 30rpx;
+  margin-bottom: 20rpx;
+}
+.content-img image{
+  width: 100%;
+  height: 100%;
+}
+.safeguard-title{
+  font-size: 30rpx;
+  color:#000;
+  text-align: center;
+  padding-top: 20rpx;
+}
+.my-button{
+  font-size: 30rpx;
+  height: 80rpx;
+  color:#fff;
+  background-color: rgb(255, 85, 85);
+  text-align: center;
+  line-height: 80rpx;
+  margin-top: 197rpx;
+}
+
+
+
 Page{
   padding-bottom: 92rpx;
 }

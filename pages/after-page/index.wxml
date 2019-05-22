@@ -1,9 +1,9 @@
 <view class='order-list'>
-  <view>全部</view>
-  <view>待付</view>
-  <view>待发</view>
-  <view>待收</view>
-  <view>已完</view>
+  <view bindtap='noOrder'>全部</view>
+  <view bindtap='obligationPage'>待付</view>
+  <view bindtap='deliverPage'>待发</view>
+  <view bindtap='takePage'>待收</view>
+  <view bindtap='receivedPage'>已完</view>
   <view>售后</view>
 </view>
 <view class='obligation-list clearfix'>
@@ -11,7 +11,7 @@
     <view>订单号：123456798101010101010</view>
     <view>退款中</view>
   </view>
-  <view class='obligation-content'>
+  <view class='obligation-content'> 
     <view class='content-img'>
       <image src='../../images/naifen.png'></image>
     </view>

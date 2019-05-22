@@ -11,5 +11,10 @@ Page({
         return util.formatTime(new Date(log))
       })
     })
+  },
+  nowPlay:function(){
+    wx.navigateTo({
+      url: '../now-play/index',
+    })
   }
 })
